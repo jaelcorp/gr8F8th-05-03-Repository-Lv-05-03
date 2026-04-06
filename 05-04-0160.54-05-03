@@ -1,0 +1,880 @@
+
+CS	0	12:11:34.095	History	BTCUSD,H1: history cache allocated for 10161 bars and contains 9115 bars from 2025.01.01 00:00 to 2026.02.01 23:00
+CS	0	12:11:34.095	History	BTCUSD,H1: 1 bar from 2026.02.02 00:00 added
+CS	0	12:11:34.095	History	BTCUSD,H1: history begins from 2025.01.01 00:00
+CS	0	12:11:34.166	History	BTCUSD,M5: history cache allocated for 121073 bars and contains 108523 bars from 2025.01.01 00:05 to 2026.02.01 23:50
+CS	0	12:11:34.167	History	BTCUSD,M5: 1 bar from 2026.02.02 00:05 added
+CS	0	12:11:34.167	History	BTCUSD,M5: history begins from 2025.01.01 00:05
+CS	0	12:11:34.174	Trade	2026.02.02 02:00:20   sell stop 0.03 BTCUSD at 77047.68 (77047.76 / 77048.76 / 77047.76)
+CS	0	12:11:34.174	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 02:00:20   CTrade::OrderSend: sell stop 0.03 BTCUSD at 77047.68 [done]
+CS	0	12:11:34.174	Trade	2026.02.02 02:00:21   buy stop 0.01 BTCUSD at 77048.85 (77047.76 / 77048.76 / 77047.76)
+CS	0	12:11:34.174	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 02:00:21   CTrade::OrderSend: buy stop 0.01 BTCUSD at 77048.85 [done]
+CS	0	12:11:34.174	Trade	2026.02.02 02:00:40   order [#2 sell stop 0.03 BTCUSD at 77047.68] triggered
+CS	0	12:11:34.174	Trades	2026.02.02 02:00:40   deal #2 sell 0.03 BTCUSD at 77047.68 done (based on order #2)
+CS	0	12:11:34.174	Trade	2026.02.02 02:00:40   deal performed [#2 sell 0.03 BTCUSD at 77047.68]
+CS	0	12:11:34.174	Trade	2026.02.02 02:00:40   order performed sell 0.03 at 77047.68 [#2 sell stop 0.03 BTCUSD at 77047.68]
+CS	0	12:11:34.174	Trade	2026.02.02 02:01:59   market buy 0.03 BTCUSD, close #2 (76736.78 / 76737.78 / 76736.78)
+CS	0	12:11:34.174	Trades	2026.02.02 02:01:59   deal #3 buy 0.03 BTCUSD at 76737.78 done (based on order #4)
+CS	0	12:11:34.174	Trade	2026.02.02 02:01:59   deal performed [#3 buy 0.03 BTCUSD at 76737.78]
+CS	0	12:11:34.174	Trade	2026.02.02 02:01:59   order performed buy 0.03 at 76737.78 [#4 buy 0.03 BTCUSD at 76737.78]
+CS	0	12:11:34.174	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 02:01:59   CTrade::OrderSend: market buy 0.03 position #2 BTCUSD [done at 76737.78]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:00   order canceled [#3 buy stop 0.01 BTCUSD at 77048.85]
+CS	0	12:11:34.174	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 02:02:00   CTrade::OrderSend: cancel #3 [done]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:00   sell stop 0.03 BTCUSD at 76737.90 (76737.98 / 76738.98 / 76737.98)
+CS	0	12:11:34.174	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 02:02:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 76737.90 [done]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:01   buy stop 0.01 BTCUSD at 76739.07 (76737.98 / 76738.98 / 76737.98)
+CS	0	12:11:34.174	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 02:02:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 76739.07 [done]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:20   order [#5 sell stop 0.03 BTCUSD at 76737.90] triggered
+CS	0	12:11:34.174	Trades	2026.02.02 02:02:20   deal #4 sell 0.03 BTCUSD at 76737.90 done (based on order #5)
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:20   deal performed [#4 sell 0.03 BTCUSD at 76737.90]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:20   order performed sell 0.03 at 76737.90 [#5 sell stop 0.03 BTCUSD at 76737.90]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:40   order [#6 buy stop 0.01 BTCUSD at 76739.07] triggered
+CS	0	12:11:34.174	Trades	2026.02.02 02:02:40   deal #5 buy 0.01 BTCUSD at 76739.07 done (based on order #6)
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:40   deal performed [#5 buy 0.01 BTCUSD at 76739.07]
+CS	0	12:11:34.174	Trade	2026.02.02 02:02:40   order performed buy 0.01 at 76739.07 [#6 buy stop 0.01 BTCUSD at 76739.07]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:20   market sell 0.01 BTCUSD, close #6 (76423.05 / 76424.05 / 76423.05)
+CS	0	12:11:34.185	Trades	2026.02.02 05:00:20   deal #6 sell 0.01 BTCUSD at 76423.05 done (based on order #7)
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:20   deal performed [#6 sell 0.01 BTCUSD at 76423.05]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:20   order performed sell 0.01 at 76423.05 [#7 sell 0.01 BTCUSD at 76423.05]
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:00:20   CTrade::OrderSend: market sell 0.01 position #6 BTCUSD [done at 76423.05]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:21   market buy 0.03 BTCUSD, close #5 (76423.05 / 76424.05 / 76423.05)
+CS	0	12:11:34.185	Trades	2026.02.02 05:00:21   deal #7 buy 0.03 BTCUSD at 76424.05 done (based on order #8)
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:21   deal performed [#7 buy 0.03 BTCUSD at 76424.05]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:21   order performed buy 0.03 at 76424.05 [#8 buy 0.03 BTCUSD at 76424.05]
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:00:21   CTrade::OrderSend: market buy 0.03 position #5 BTCUSD [done at 76424.05]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:40   sell stop 0.03 BTCUSD at 76537.75 (76537.83 / 76538.83 / 76537.83)
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:00:40   CTrade::OrderSend: sell stop 0.03 BTCUSD at 76537.75 [done]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:41   buy stop 0.01 BTCUSD at 76538.92 (76537.83 / 76538.83 / 76537.83)
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:00:41   CTrade::OrderSend: buy stop 0.01 BTCUSD at 76538.92 [done]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:59   order [#9 sell stop 0.03 BTCUSD at 76537.75] triggered
+CS	0	12:11:34.185	Trades	2026.02.02 05:00:59   deal #8 sell 0.03 BTCUSD at 76537.75 done (based on order #9)
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:59   deal performed [#8 sell 0.03 BTCUSD at 76537.75]
+CS	0	12:11:34.185	Trade	2026.02.02 05:00:59   order performed sell 0.03 at 76537.75 [#9 sell stop 0.03 BTCUSD at 76537.75]
+CS	0	12:11:34.185	Trade	2026.02.02 05:02:40   market buy 0.03 BTCUSD, close #9 (76422.73 / 76423.73 / 76422.73)
+CS	0	12:11:34.185	Trades	2026.02.02 05:02:40   deal #9 buy 0.03 BTCUSD at 76423.73 done (based on order #11)
+CS	0	12:11:34.185	Trade	2026.02.02 05:02:40   deal performed [#9 buy 0.03 BTCUSD at 76423.73]
+CS	0	12:11:34.185	Trade	2026.02.02 05:02:40   order performed buy 0.03 at 76423.73 [#11 buy 0.03 BTCUSD at 76423.73]
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:02:40   CTrade::OrderSend: market buy 0.03 position #9 BTCUSD [done at 76423.73]
+CS	0	12:11:34.185	Trade	2026.02.02 05:02:41   order canceled [#10 buy stop 0.01 BTCUSD at 76538.92]
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:02:41   CTrade::OrderSend: cancel #10 [done]
+CS	0	12:11:34.185	Trade	2026.02.02 05:02:59   sell stop 0.03 BTCUSD at 76394.78 (76394.86 / 76395.86 / 76394.86)
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:02:59   CTrade::OrderSend: sell stop 0.03 BTCUSD at 76394.78 [done]
+CS	2	12:11:34.185	Trades	2026.02.02 05:03:00   failed buy stop 0.01 BTCUSD at 76395.95 [Invalid price]
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:03:00   CTrade::OrderSend: buy stop 0.01 BTCUSD at 76395.95 [invalid price]
+CS	0	12:11:34.185	Trade	2026.02.02 05:03:40   order [#12 sell stop 0.03 BTCUSD at 76394.78] triggered
+CS	0	12:11:34.185	Trades	2026.02.02 05:03:40   deal #10 sell 0.03 BTCUSD at 76394.78 done (based on order #12)
+CS	0	12:11:34.185	Trade	2026.02.02 05:03:40   deal performed [#10 sell 0.03 BTCUSD at 76394.78]
+CS	0	12:11:34.185	Trade	2026.02.02 05:03:40   order performed sell 0.03 at 76394.78 [#12 sell stop 0.03 BTCUSD at 76394.78]
+CS	0	12:11:34.185	Trade	2026.02.02 05:03:59   market buy 0.03 BTCUSD, close #12 (76379.20 / 76380.20 / 76379.20)
+CS	0	12:11:34.185	Trades	2026.02.02 05:03:59   deal #11 buy 0.03 BTCUSD at 76380.20 done (based on order #13)
+CS	0	12:11:34.185	Trade	2026.02.02 05:03:59   deal performed [#11 buy 0.03 BTCUSD at 76380.20]
+CS	0	12:11:34.185	Trade	2026.02.02 05:03:59   order performed buy 0.03 at 76380.20 [#13 buy 0.03 BTCUSD at 76380.20]
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:03:59   CTrade::OrderSend: market buy 0.03 position #12 BTCUSD [done at 76380.20]
+CS	0	12:11:34.185	Trade	2026.02.02 05:04:00   sell stop 0.03 BTCUSD at 76379.12 (76379.20 / 76380.20 / 76379.20)
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:04:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 76379.12 [done]
+CS	0	12:11:34.185	Trade	2026.02.02 05:04:01   buy stop 0.01 BTCUSD at 76380.29 (76379.22 / 76380.22 / 76379.22)
+CS	0	12:11:34.185	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:04:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 76380.29 [done]
+CS	0	12:11:34.185	Trade	2026.02.02 05:04:20   order [#14 sell stop 0.03 BTCUSD at 76379.12] triggered
+CS	0	12:11:34.185	Trades	2026.02.02 05:04:20   deal #12 sell 0.03 BTCUSD at 76379.12 done (based on order #14)
+CS	0	12:11:34.186	Trade	2026.02.02 05:04:20   deal performed [#12 sell 0.03 BTCUSD at 76379.12]
+CS	0	12:11:34.186	Trade	2026.02.02 05:04:20   order performed sell 0.03 at 76379.12 [#14 sell stop 0.03 BTCUSD at 76379.12]
+CS	0	12:11:34.186	Trade	2026.02.02 05:04:40   order [#15 buy stop 0.01 BTCUSD at 76380.29] triggered
+CS	0	12:11:34.186	Trades	2026.02.02 05:04:40   deal #13 buy 0.01 BTCUSD at 76380.29 done (based on order #15)
+CS	0	12:11:34.186	Trade	2026.02.02 05:04:40   deal performed [#13 buy 0.01 BTCUSD at 76380.29]
+CS	0	12:11:34.186	Trade	2026.02.02 05:04:40   order performed buy 0.01 at 76380.29 [#15 buy stop 0.01 BTCUSD at 76380.29]
+CS	0	12:11:34.186	Trade	2026.02.02 05:14:59   market sell 0.01 BTCUSD, close #15 (75842.83 / 75843.83 / 75842.83)
+CS	0	12:11:34.186	Trades	2026.02.02 05:14:59   deal #14 sell 0.01 BTCUSD at 75842.83 done (based on order #16)
+CS	0	12:11:34.186	Trade	2026.02.02 05:14:59   deal performed [#14 sell 0.01 BTCUSD at 75842.83]
+CS	0	12:11:34.186	Trade	2026.02.02 05:14:59   order performed sell 0.01 at 75842.83 [#16 sell 0.01 BTCUSD at 75842.83]
+CS	0	12:11:34.186	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:14:59   CTrade::OrderSend: market sell 0.01 position #15 BTCUSD [done at 75842.83]
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:00   market buy 0.03 BTCUSD, close #14 (75842.83 / 75843.83 / 75842.83)
+CS	0	12:11:34.186	Trades	2026.02.02 05:15:00   deal #15 buy 0.03 BTCUSD at 75843.83 done (based on order #17)
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:00   deal performed [#15 buy 0.03 BTCUSD at 75843.83]
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:00   order performed buy 0.03 at 75843.83 [#17 buy 0.03 BTCUSD at 75843.83]
+CS	0	12:11:34.186	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:15:00   CTrade::OrderSend: market buy 0.03 position #14 BTCUSD [done at 75843.83]
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:00   sell stop 0.03 BTCUSD at 75842.74 (75842.82 / 75843.82 / 75842.82)
+CS	0	12:11:34.186	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:15:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 75842.74 [done]
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:01   buy stop 0.01 BTCUSD at 75843.91 (75842.82 / 75843.82 / 75842.82)
+CS	0	12:11:34.186	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:15:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 75843.91 [done]
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:20   order [#19 buy stop 0.01 BTCUSD at 75843.91] triggered
+CS	0	12:11:34.186	Trades	2026.02.02 05:15:20   deal #16 buy 0.01 BTCUSD at 75843.91 done (based on order #19)
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:20   deal performed [#16 buy 0.01 BTCUSD at 75843.91]
+CS	0	12:11:34.186	Trade	2026.02.02 05:15:20   order performed buy 0.01 at 75843.91 [#19 buy stop 0.01 BTCUSD at 75843.91]
+CS	0	12:11:34.187	Trade	2026.02.02 05:15:40   order [#18 sell stop 0.03 BTCUSD at 75842.74] triggered
+CS	0	12:11:34.187	Trades	2026.02.02 05:15:40   deal #17 sell 0.03 BTCUSD at 75842.74 done (based on order #18)
+CS	0	12:11:34.187	Trade	2026.02.02 05:15:40   deal performed [#17 sell 0.03 BTCUSD at 75842.74]
+CS	0	12:11:34.187	Trade	2026.02.02 05:15:40   order performed sell 0.03 at 75842.74 [#18 sell stop 0.03 BTCUSD at 75842.74]
+CS	0	12:11:34.187	Trade	2026.02.02 05:21:59   market sell 0.01 BTCUSD, close #19 (75251.51 / 75252.51 / 75251.51)
+CS	0	12:11:34.187	Trades	2026.02.02 05:21:59   deal #18 sell 0.01 BTCUSD at 75251.51 done (based on order #20)
+CS	0	12:11:34.187	Trade	2026.02.02 05:21:59   deal performed [#18 sell 0.01 BTCUSD at 75251.51]
+CS	0	12:11:34.187	Trade	2026.02.02 05:21:59   order performed sell 0.01 at 75251.51 [#20 sell 0.01 BTCUSD at 75251.51]
+CS	0	12:11:34.187	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:21:59   CTrade::OrderSend: market sell 0.01 position #19 BTCUSD [done at 75251.51]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:00   market buy 0.03 BTCUSD, close #18 (75251.51 / 75252.51 / 75251.51)
+CS	0	12:11:34.187	Trades	2026.02.02 05:22:00   deal #19 buy 0.03 BTCUSD at 75252.51 done (based on order #21)
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:00   deal performed [#19 buy 0.03 BTCUSD at 75252.51]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:00   order performed buy 0.03 at 75252.51 [#21 buy 0.03 BTCUSD at 75252.51]
+CS	0	12:11:34.187	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:22:00   CTrade::OrderSend: market buy 0.03 position #18 BTCUSD [done at 75252.51]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:00   sell stop 0.03 BTCUSD at 75251.63 (75251.71 / 75252.71 / 75251.71)
+CS	0	12:11:34.187	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:22:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 75251.63 [done]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:01   buy stop 0.01 BTCUSD at 75252.80 (75251.71 / 75252.71 / 75251.71)
+CS	0	12:11:34.187	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:22:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 75252.80 [done]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:20   order [#23 buy stop 0.01 BTCUSD at 75252.80] triggered
+CS	0	12:11:34.187	Trades	2026.02.02 05:22:20   deal #20 buy 0.01 BTCUSD at 75252.80 done (based on order #23)
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:20   deal performed [#20 buy 0.01 BTCUSD at 75252.80]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:20   order performed buy 0.01 at 75252.80 [#23 buy stop 0.01 BTCUSD at 75252.80]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:40   order [#22 sell stop 0.03 BTCUSD at 75251.63] triggered
+CS	0	12:11:34.187	Trades	2026.02.02 05:22:40   deal #21 sell 0.03 BTCUSD at 75251.63 done (based on order #22)
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:40   deal performed [#21 sell 0.03 BTCUSD at 75251.63]
+CS	0	12:11:34.187	Trade	2026.02.02 05:22:40   order performed sell 0.03 at 75251.63 [#22 sell stop 0.03 BTCUSD at 75251.63]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:00   market sell 0.01 BTCUSD, close #23 (74944.69 / 74945.69 / 74944.69)
+CS	0	12:11:34.188	Trades	2026.02.02 05:32:00   deal #22 sell 0.01 BTCUSD at 74944.69 done (based on order #24)
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:00   deal performed [#22 sell 0.01 BTCUSD at 74944.69]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:00   order performed sell 0.01 at 74944.69 [#24 sell 0.01 BTCUSD at 74944.69]
+CS	0	12:11:34.188	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:32:00   CTrade::OrderSend: market sell 0.01 position #23 BTCUSD [done at 74944.69]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:01   market buy 0.03 BTCUSD, close #22 (74944.69 / 74945.69 / 74944.69)
+CS	0	12:11:34.188	Trades	2026.02.02 05:32:01   deal #23 buy 0.03 BTCUSD at 74945.69 done (based on order #25)
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:01   deal performed [#23 buy 0.03 BTCUSD at 74945.69]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:01   order performed buy 0.03 at 74945.69 [#25 buy 0.03 BTCUSD at 74945.69]
+CS	0	12:11:34.188	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:32:01   CTrade::OrderSend: market buy 0.03 position #22 BTCUSD [done at 74945.69]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:20   sell stop 0.03 BTCUSD at 74988.77 (74988.85 / 74989.85 / 74988.85)
+CS	0	12:11:34.188	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:32:20   CTrade::OrderSend: sell stop 0.03 BTCUSD at 74988.77 [done]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:21   buy stop 0.01 BTCUSD at 74989.94 (74988.85 / 74989.85 / 74988.85)
+CS	0	12:11:34.188	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:32:21   CTrade::OrderSend: buy stop 0.01 BTCUSD at 74989.94 [done]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:40   order [#26 sell stop 0.03 BTCUSD at 74988.77] triggered
+CS	0	12:11:34.188	Trades	2026.02.02 05:32:40   deal #24 sell 0.03 BTCUSD at 74988.77 done (based on order #26)
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:40   deal performed [#24 sell 0.03 BTCUSD at 74988.77]
+CS	0	12:11:34.188	Trade	2026.02.02 05:32:40   order performed sell 0.03 at 74988.77 [#26 sell stop 0.03 BTCUSD at 74988.77]
+CS	0	12:11:34.188	Trade	2026.02.02 05:33:40   order [#27 buy stop 0.01 BTCUSD at 74989.94] triggered
+CS	0	12:11:34.188	Trades	2026.02.02 05:33:40   deal #25 buy 0.01 BTCUSD at 74989.94 done (based on order #27)
+CS	0	12:11:34.188	Trade	2026.02.02 05:33:40   deal performed [#25 buy 0.01 BTCUSD at 74989.94]
+CS	0	12:11:34.188	Trade	2026.02.02 05:33:40   order performed buy 0.01 at 74989.94 [#27 buy stop 0.01 BTCUSD at 74989.94]
+CS	0	12:11:34.189	Trade	2026.02.02 05:38:40   market sell 0.01 BTCUSD, close #27 (74580.36 / 74581.36 / 74580.36)
+CS	0	12:11:34.189	Trades	2026.02.02 05:38:40   deal #26 sell 0.01 BTCUSD at 74580.36 done (based on order #28)
+CS	0	12:11:34.189	Trade	2026.02.02 05:38:40   deal performed [#26 sell 0.01 BTCUSD at 74580.36]
+CS	0	12:11:34.189	Trade	2026.02.02 05:38:40   order performed sell 0.01 at 74580.36 [#28 sell 0.01 BTCUSD at 74580.36]
+CS	0	12:11:34.189	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:38:40   CTrade::OrderSend: market sell 0.01 position #27 BTCUSD [done at 74580.36]
+CS	0	12:11:34.189	Trade	2026.02.02 05:38:41   market buy 0.03 BTCUSD, close #26 (74580.36 / 74581.36 / 74580.36)
+CS	0	12:11:34.189	Trades	2026.02.02 05:38:41   deal #27 buy 0.03 BTCUSD at 74581.36 done (based on order #29)
+CS	0	12:11:34.189	Trade	2026.02.02 05:38:41   deal performed [#27 buy 0.03 BTCUSD at 74581.36]
+CS	0	12:11:34.189	Trade	2026.02.02 05:38:41   order performed buy 0.03 at 74581.36 [#29 buy 0.03 BTCUSD at 74581.36]
+CS	0	12:11:34.189	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:38:41   CTrade::OrderSend: market buy 0.03 position #26 BTCUSD [done at 74581.36]
+CS	0	12:11:34.189	Trade	2026.02.02 05:45:20   sell stop 0.03 BTCUSD at 74567.71 (74567.79 / 74568.79 / 74567.79)
+CS	0	12:11:34.189	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:45:20   CTrade::OrderSend: sell stop 0.03 BTCUSD at 74567.71 [done]
+CS	0	12:11:34.189	Trade	2026.02.02 05:45:21   buy stop 0.01 BTCUSD at 74568.88 (74567.79 / 74568.79 / 74567.79)
+CS	0	12:11:34.189	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:45:21   CTrade::OrderSend: buy stop 0.01 BTCUSD at 74568.88 [done]
+CS	0	12:11:34.189	Trade	2026.02.02 05:45:40   order [#31 buy stop 0.01 BTCUSD at 74568.88] triggered
+CS	0	12:11:34.189	Trades	2026.02.02 05:45:40   deal #28 buy 0.01 BTCUSD at 74568.88 done (based on order #31)
+CS	0	12:11:34.189	Trade	2026.02.02 05:45:40   deal performed [#28 buy 0.01 BTCUSD at 74568.88]
+CS	0	12:11:34.189	Trade	2026.02.02 05:45:40   order performed buy 0.01 at 74568.88 [#31 buy stop 0.01 BTCUSD at 74568.88]
+CS	0	12:11:34.190	Trade	2026.02.02 05:48:59   market sell 0.01 BTCUSD, close #31 (75252.46 / 75253.46 / 75252.46)
+CS	0	12:11:34.190	Trades	2026.02.02 05:48:59   deal #29 sell 0.01 BTCUSD at 75252.46 done (based on order #32)
+CS	0	12:11:34.190	Trade	2026.02.02 05:48:59   deal performed [#29 sell 0.01 BTCUSD at 75252.46]
+CS	0	12:11:34.190	Trade	2026.02.02 05:48:59   order performed sell 0.01 at 75252.46 [#32 sell 0.01 BTCUSD at 75252.46]
+CS	0	12:11:34.190	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:48:59   CTrade::OrderSend: market sell 0.01 position #31 BTCUSD [done at 75252.46]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:00   order canceled [#30 sell stop 0.03 BTCUSD at 74567.71]
+CS	0	12:11:34.190	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:49:00   CTrade::OrderSend: cancel #30 [done]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:00   sell stop 0.03 BTCUSD at 75279.72 (75279.80 / 75280.80 / 75279.80)
+CS	0	12:11:34.190	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:49:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 75279.72 [done]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:01   buy stop 0.01 BTCUSD at 75280.89 (75279.80 / 75280.80 / 75279.80)
+CS	0	12:11:34.190	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 05:49:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 75280.89 [done]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:20   order [#33 sell stop 0.03 BTCUSD at 75279.72] triggered
+CS	0	12:11:34.190	Trades	2026.02.02 05:49:20   deal #30 sell 0.03 BTCUSD at 75279.72 done (based on order #33)
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:20   deal performed [#30 sell 0.03 BTCUSD at 75279.72]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:20   order performed sell 0.03 at 75279.72 [#33 sell stop 0.03 BTCUSD at 75279.72]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:40   order [#34 buy stop 0.01 BTCUSD at 75280.89] triggered
+CS	0	12:11:34.190	Trades	2026.02.02 05:49:40   deal #31 buy 0.01 BTCUSD at 75280.89 done (based on order #34)
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:40   deal performed [#31 buy 0.01 BTCUSD at 75280.89]
+CS	0	12:11:34.190	Trade	2026.02.02 05:49:40   order performed buy 0.01 at 75280.89 [#34 buy stop 0.01 BTCUSD at 75280.89]
+CS	0	12:11:34.197	Trade	2026.02.02 07:28:59   market sell 0.01 BTCUSD, close #34 (74939.12 / 74940.12 / 74939.12)
+CS	0	12:11:34.197	Trades	2026.02.02 07:28:59   deal #32 sell 0.01 BTCUSD at 74939.12 done (based on order #35)
+CS	0	12:11:34.197	Trade	2026.02.02 07:28:59   deal performed [#32 sell 0.01 BTCUSD at 74939.12]
+CS	0	12:11:34.197	Trade	2026.02.02 07:28:59   order performed sell 0.01 at 74939.12 [#35 sell 0.01 BTCUSD at 74939.12]
+CS	0	12:11:34.197	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 07:28:59   CTrade::OrderSend: market sell 0.01 position #34 BTCUSD [done at 74939.12]
+CS	0	12:11:34.197	Trade	2026.02.02 07:29:00   market buy 0.03 BTCUSD, close #33 (74939.12 / 74940.12 / 74939.12)
+CS	0	12:11:34.197	Trades	2026.02.02 07:29:00   deal #33 buy 0.03 BTCUSD at 74940.12 done (based on order #36)
+CS	0	12:11:34.197	Trade	2026.02.02 07:29:00   deal performed [#33 buy 0.03 BTCUSD at 74940.12]
+CS	0	12:11:34.197	Trade	2026.02.02 07:29:00   order performed buy 0.03 at 74940.12 [#36 buy 0.03 BTCUSD at 74940.12]
+CS	0	12:11:34.197	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 07:29:00   CTrade::OrderSend: market buy 0.03 position #33 BTCUSD [done at 74940.12]
+CS	0	12:11:34.197	Trade	2026.02.02 07:29:00   sell stop 0.03 BTCUSD at 74939.04 (74939.12 / 74940.12 / 74939.12)
+CS	0	12:11:34.197	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 07:29:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 74939.04 [done]
+CS	0	12:11:34.198	Trade	2026.02.02 07:29:01   buy stop 0.01 BTCUSD at 74940.21 (74939.12 / 74940.12 / 74939.12)
+CS	0	12:11:34.198	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.02 07:29:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 74940.21 [done]
+CS	0	12:11:34.198	Trade	2026.02.02 07:29:40   order [#38 buy stop 0.01 BTCUSD at 74940.21] triggered
+CS	0	12:11:34.198	Trades	2026.02.02 07:29:40   deal #34 buy 0.01 BTCUSD at 74940.21 done (based on order #38)
+CS	0	12:11:34.198	Trade	2026.02.02 07:29:40   deal performed [#34 buy 0.01 BTCUSD at 74940.21]
+CS	0	12:11:34.198	Trade	2026.02.02 07:29:40   order performed buy 0.01 at 74940.21 [#38 buy stop 0.01 BTCUSD at 74940.21]
+CS	0	12:11:34.198	Trade	2026.02.02 07:36:40   order [#37 sell stop 0.03 BTCUSD at 74939.04] triggered
+CS	0	12:11:34.198	Trades	2026.02.02 07:36:40   deal #35 sell 0.03 BTCUSD at 74939.04 done (based on order #37)
+CS	0	12:11:34.198	Trade	2026.02.02 07:36:40   deal performed [#35 sell 0.03 BTCUSD at 74939.04]
+CS	0	12:11:34.198	Trade	2026.02.02 07:36:40   order performed sell 0.03 at 74939.04 [#37 sell stop 0.03 BTCUSD at 74939.04]
+CS	0	12:11:34.332	Trade	2026.02.03 20:17:59   market sell 0.01 BTCUSD, close #38 (74516.15 / 74517.15 / 74516.15)
+CS	0	12:11:34.332	Trades	2026.02.03 20:17:59   deal #36 sell 0.01 BTCUSD at 74516.15 done (based on order #39)
+CS	0	12:11:34.332	Trade	2026.02.03 20:17:59   deal performed [#36 sell 0.01 BTCUSD at 74516.15]
+CS	0	12:11:34.332	Trade	2026.02.03 20:17:59   order performed sell 0.01 at 74516.15 [#39 sell 0.01 BTCUSD at 74516.15]
+CS	0	12:11:34.333	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.03 20:17:59   CTrade::OrderSend: market sell 0.01 position #38 BTCUSD [done at 74516.15]
+CS	0	12:11:34.333	Trade	2026.02.03 20:18:00   market buy 0.03 BTCUSD, close #37 (74516.15 / 74517.15 / 74516.15)
+CS	0	12:11:34.333	Trades	2026.02.03 20:18:00   deal #37 buy 0.03 BTCUSD at 74517.15 done (based on order #40)
+CS	0	12:11:34.333	Trade	2026.02.03 20:18:00   deal performed [#37 buy 0.03 BTCUSD at 74517.15]
+CS	0	12:11:34.333	Trade	2026.02.03 20:18:00   order performed buy 0.03 at 74517.15 [#40 buy 0.03 BTCUSD at 74517.15]
+CS	0	12:11:34.333	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.03 20:18:00   CTrade::OrderSend: market buy 0.03 position #37 BTCUSD [done at 74517.15]
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:00   sell stop 0.03 BTCUSD at 75731.75 (75731.83 / 75732.83 / 75731.83)
+CS	0	12:11:34.349	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 02:00:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 75731.75 [done]
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:01   buy stop 0.01 BTCUSD at 75732.92 (75731.83 / 75732.83 / 75731.83)
+CS	0	12:11:34.349	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 02:00:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 75732.92 [done]
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:20   order [#42 buy stop 0.01 BTCUSD at 75732.92] triggered
+CS	0	12:11:34.349	Trades	2026.02.04 02:00:20   deal #38 buy 0.01 BTCUSD at 75732.92 done (based on order #42)
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:20   deal performed [#38 buy 0.01 BTCUSD at 75732.92]
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:20   order performed buy 0.01 at 75732.92 [#42 buy stop 0.01 BTCUSD at 75732.92]
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:40   order [#41 sell stop 0.03 BTCUSD at 75731.75] triggered
+CS	0	12:11:34.349	Trades	2026.02.04 02:00:40   deal #39 sell 0.03 BTCUSD at 75731.75 done (based on order #41)
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:40   deal performed [#39 sell 0.03 BTCUSD at 75731.75]
+CS	0	12:11:34.349	Trade	2026.02.04 02:00:40   order performed sell 0.03 at 75731.75 [#41 sell stop 0.03 BTCUSD at 75731.75]
+CS	0	12:11:34.392	Trade	2026.02.04 15:43:40   market sell 0.01 BTCUSD, close #42 (75365.41 / 75366.41 / 75365.41)
+CS	0	12:11:34.392	Trades	2026.02.04 15:43:40   deal #40 sell 0.01 BTCUSD at 75365.41 done (based on order #43)
+CS	0	12:11:34.392	Trade	2026.02.04 15:43:40   deal performed [#40 sell 0.01 BTCUSD at 75365.41]
+CS	0	12:11:34.392	Trade	2026.02.04 15:43:40   order performed sell 0.01 at 75365.41 [#43 sell 0.01 BTCUSD at 75365.41]
+CS	0	12:11:34.392	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:43:40   CTrade::OrderSend: market sell 0.01 position #42 BTCUSD [done at 75365.41]
+CS	0	12:11:34.392	Trade	2026.02.04 15:43:41   market buy 0.03 BTCUSD, close #41 (75365.41 / 75366.41 / 75365.41)
+CS	0	12:11:34.392	Trades	2026.02.04 15:43:41   deal #41 buy 0.03 BTCUSD at 75366.41 done (based on order #44)
+CS	0	12:11:34.392	Trade	2026.02.04 15:43:41   deal performed [#41 buy 0.03 BTCUSD at 75366.41]
+CS	0	12:11:34.392	Trade	2026.02.04 15:43:41   order performed buy 0.03 at 75366.41 [#44 buy 0.03 BTCUSD at 75366.41]
+CS	0	12:11:34.392	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:43:41   CTrade::OrderSend: market buy 0.03 position #41 BTCUSD [done at 75366.41]
+CS	0	12:11:34.392	Trade	2026.02.04 15:45:20   sell stop 0.03 BTCUSD at 75345.11 (75345.19 / 75346.19 / 75345.19)
+CS	0	12:11:34.392	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:45:20   CTrade::OrderSend: sell stop 0.03 BTCUSD at 75345.11 [done]
+CS	0	12:11:34.392	Trade	2026.02.04 15:45:21   buy stop 0.01 BTCUSD at 75346.28 (75345.19 / 75346.19 / 75345.19)
+CS	0	12:11:34.392	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:45:21   CTrade::OrderSend: buy stop 0.01 BTCUSD at 75346.28 [done]
+CS	0	12:11:34.392	Trade	2026.02.04 15:45:40   order [#45 sell stop 0.03 BTCUSD at 75345.11] triggered
+CS	0	12:11:34.392	Trades	2026.02.04 15:45:40   deal #42 sell 0.03 BTCUSD at 75345.11 done (based on order #45)
+CS	0	12:11:34.392	Trade	2026.02.04 15:45:40   deal performed [#42 sell 0.03 BTCUSD at 75345.11]
+CS	0	12:11:34.392	Trade	2026.02.04 15:45:40   order performed sell 0.03 at 75345.11 [#45 sell stop 0.03 BTCUSD at 75345.11]
+CS	0	12:11:34.392	Trade	2026.02.04 15:46:40   order [#46 buy stop 0.01 BTCUSD at 75346.28] triggered
+CS	0	12:11:34.392	Trades	2026.02.04 15:46:40   deal #43 buy 0.01 BTCUSD at 75346.28 done (based on order #46)
+CS	0	12:11:34.392	Trade	2026.02.04 15:46:40   deal performed [#43 buy 0.01 BTCUSD at 75346.28]
+CS	0	12:11:34.392	Trade	2026.02.04 15:46:40   order performed buy 0.01 at 75346.28 [#46 buy stop 0.01 BTCUSD at 75346.28]
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:40   market sell 0.01 BTCUSD, close #46 (74917.35 / 74918.35 / 74917.35)
+CS	0	12:11:34.393	Trades	2026.02.04 15:59:40   deal #44 sell 0.01 BTCUSD at 74917.35 done (based on order #47)
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:40   deal performed [#44 sell 0.01 BTCUSD at 74917.35]
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:40   order performed sell 0.01 at 74917.35 [#47 sell 0.01 BTCUSD at 74917.35]
+CS	0	12:11:34.393	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:59:40   CTrade::OrderSend: market sell 0.01 position #46 BTCUSD [done at 74917.35]
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:41   market buy 0.03 BTCUSD, close #45 (74917.35 / 74918.35 / 74917.35)
+CS	0	12:11:34.393	Trades	2026.02.04 15:59:41   deal #45 buy 0.03 BTCUSD at 74918.35 done (based on order #48)
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:41   deal performed [#45 buy 0.03 BTCUSD at 74918.35]
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:41   order performed buy 0.03 at 74918.35 [#48 buy 0.03 BTCUSD at 74918.35]
+CS	0	12:11:34.393	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:59:41   CTrade::OrderSend: market buy 0.03 position #45 BTCUSD [done at 74918.35]
+CS	0	12:11:34.393	Trade	2026.02.04 15:59:59   sell stop 0.03 BTCUSD at 74840.77 (74840.85 / 74841.85 / 74840.85)
+CS	0	12:11:34.393	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 15:59:59   CTrade::OrderSend: sell stop 0.03 BTCUSD at 74840.77 [done]
+CS	0	12:11:34.393	Trade	2026.02.04 16:00:00   buy stop 0.01 BTCUSD at 74841.94 (74840.85 / 74841.85 / 74840.85)
+CS	0	12:11:34.393	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 16:00:00   CTrade::OrderSend: buy stop 0.01 BTCUSD at 74841.94 [done]
+CS	0	12:11:34.393	Trade	2026.02.04 16:00:40   order [#49 sell stop 0.03 BTCUSD at 74840.77] triggered
+CS	0	12:11:34.393	Trades	2026.02.04 16:00:40   deal #46 sell 0.03 BTCUSD at 74840.77 done (based on order #49)
+CS	0	12:11:34.393	Trade	2026.02.04 16:00:40   deal performed [#46 sell 0.03 BTCUSD at 74840.77]
+CS	0	12:11:34.393	Trade	2026.02.04 16:00:40   order performed sell 0.03 at 74840.77 [#49 sell stop 0.03 BTCUSD at 74840.77]
+CS	0	12:11:34.394	Trade	2026.02.04 16:01:40   order [#50 buy stop 0.01 BTCUSD at 74841.94] triggered
+CS	0	12:11:34.394	Trades	2026.02.04 16:01:40   deal #47 buy 0.01 BTCUSD at 74841.94 done (based on order #50)
+CS	0	12:11:34.394	Trade	2026.02.04 16:01:40   deal performed [#47 buy 0.01 BTCUSD at 74841.94]
+CS	0	12:11:34.394	Trade	2026.02.04 16:01:40   order performed buy 0.01 at 74841.94 [#50 buy stop 0.01 BTCUSD at 74841.94]
+CS	0	12:11:34.396	Trade	2026.02.04 16:58:59   market sell 0.01 BTCUSD, close #50 (74323.58 / 74324.58 / 74323.58)
+CS	0	12:11:34.397	Trades	2026.02.04 16:58:59   deal #48 sell 0.01 BTCUSD at 74323.58 done (based on order #51)
+CS	0	12:11:34.397	Trade	2026.02.04 16:58:59   deal performed [#48 sell 0.01 BTCUSD at 74323.58]
+CS	0	12:11:34.397	Trade	2026.02.04 16:58:59   order performed sell 0.01 at 74323.58 [#51 sell 0.01 BTCUSD at 74323.58]
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 16:58:59   CTrade::OrderSend: market sell 0.01 position #50 BTCUSD [done at 74323.58]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:00   market buy 0.03 BTCUSD, close #49 (74323.58 / 74324.58 / 74323.58)
+CS	0	12:11:34.397	Trades	2026.02.04 16:59:00   deal #49 buy 0.03 BTCUSD at 74324.58 done (based on order #52)
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:00   deal performed [#49 buy 0.03 BTCUSD at 74324.58]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:00   order performed buy 0.03 at 74324.58 [#52 buy 0.03 BTCUSD at 74324.58]
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 16:59:00   CTrade::OrderSend: market buy 0.03 position #49 BTCUSD [done at 74324.58]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:00   sell stop 0.03 BTCUSD at 74325.20 (74325.28 / 74326.28 / 74325.28)
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 16:59:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 74325.20 [done]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:01   buy stop 0.01 BTCUSD at 74326.37 (74325.28 / 74326.28 / 74325.28)
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 16:59:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 74326.37 [done]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:20   order [#54 buy stop 0.01 BTCUSD at 74326.37] triggered
+CS	0	12:11:34.397	Trades	2026.02.04 16:59:20   deal #50 buy 0.01 BTCUSD at 74326.37 done (based on order #54)
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:20   deal performed [#50 buy 0.01 BTCUSD at 74326.37]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:20   order performed buy 0.01 at 74326.37 [#54 buy stop 0.01 BTCUSD at 74326.37]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:40   order [#53 sell stop 0.03 BTCUSD at 74325.20] triggered
+CS	0	12:11:34.397	Trades	2026.02.04 16:59:40   deal #51 sell 0.03 BTCUSD at 74325.20 done (based on order #53)
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:40   deal performed [#51 sell 0.03 BTCUSD at 74325.20]
+CS	0	12:11:34.397	Trade	2026.02.04 16:59:40   order performed sell 0.03 at 74325.20 [#53 sell stop 0.03 BTCUSD at 74325.20]
+CS	0	12:11:34.397	Trade	2026.02.04 17:02:59   market sell 0.01 BTCUSD, close #54 (73899.62 / 73900.62 / 73899.62)
+CS	0	12:11:34.397	Trades	2026.02.04 17:02:59   deal #52 sell 0.01 BTCUSD at 73899.62 done (based on order #55)
+CS	0	12:11:34.397	Trade	2026.02.04 17:02:59   deal performed [#52 sell 0.01 BTCUSD at 73899.62]
+CS	0	12:11:34.397	Trade	2026.02.04 17:02:59   order performed sell 0.01 at 73899.62 [#55 sell 0.01 BTCUSD at 73899.62]
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 17:02:59   CTrade::OrderSend: market sell 0.01 position #54 BTCUSD [done at 73899.62]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:00   market buy 0.03 BTCUSD, close #53 (73899.62 / 73900.62 / 73899.62)
+CS	0	12:11:34.397	Trades	2026.02.04 17:03:00   deal #53 buy 0.03 BTCUSD at 73900.62 done (based on order #56)
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:00   deal performed [#53 buy 0.03 BTCUSD at 73900.62]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:00   order performed buy 0.03 at 73900.62 [#56 buy 0.03 BTCUSD at 73900.62]
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 17:03:00   CTrade::OrderSend: market buy 0.03 position #53 BTCUSD [done at 73900.62]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:00   sell stop 0.03 BTCUSD at 73899.52 (73899.60 / 73900.60 / 73899.60)
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 17:03:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73899.52 [done]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:01   buy stop 0.01 BTCUSD at 73900.69 (73899.60 / 73900.60 / 73899.60)
+CS	0	12:11:34.397	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 17:03:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73900.69 [done]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:20   order [#57 sell stop 0.03 BTCUSD at 73899.52] triggered
+CS	0	12:11:34.397	Trades	2026.02.04 17:03:20   deal #54 sell 0.03 BTCUSD at 73899.52 done (based on order #57)
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:20   deal performed [#54 sell 0.03 BTCUSD at 73899.52]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:20   order performed sell 0.03 at 73899.52 [#57 sell stop 0.03 BTCUSD at 73899.52]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:40   order [#58 buy stop 0.01 BTCUSD at 73900.69] triggered
+CS	0	12:11:34.397	Trades	2026.02.04 17:03:40   deal #55 buy 0.01 BTCUSD at 73900.69 done (based on order #58)
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:40   deal performed [#55 buy 0.01 BTCUSD at 73900.69]
+CS	0	12:11:34.397	Trade	2026.02.04 17:03:40   order performed buy 0.01 at 73900.69 [#58 buy stop 0.01 BTCUSD at 73900.69]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:20   market sell 0.01 BTCUSD, close #58 (73549.38 / 73550.38 / 73549.38)
+CS	0	12:11:34.402	Trades	2026.02.04 18:18:20   deal #56 sell 0.01 BTCUSD at 73549.38 done (based on order #59)
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:20   deal performed [#56 sell 0.01 BTCUSD at 73549.38]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:20   order performed sell 0.01 at 73549.38 [#59 sell 0.01 BTCUSD at 73549.38]
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:18:20   CTrade::OrderSend: market sell 0.01 position #58 BTCUSD [done at 73549.38]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:21   market buy 0.03 BTCUSD, close #57 (73549.38 / 73550.38 / 73549.38)
+CS	0	12:11:34.402	Trades	2026.02.04 18:18:21   deal #57 buy 0.03 BTCUSD at 73550.38 done (based on order #60)
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:21   deal performed [#57 buy 0.03 BTCUSD at 73550.38]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:21   order performed buy 0.03 at 73550.38 [#60 buy 0.03 BTCUSD at 73550.38]
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:18:21   CTrade::OrderSend: market buy 0.03 position #57 BTCUSD [done at 73550.38]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:40   sell stop 0.03 BTCUSD at 73758.25 (73758.33 / 73759.33 / 73758.33)
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:18:40   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73758.25 [done]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:41   buy stop 0.01 BTCUSD at 73759.42 (73758.33 / 73759.33 / 73758.33)
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:18:41   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73759.42 [done]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:59   order [#61 sell stop 0.03 BTCUSD at 73758.25] triggered
+CS	0	12:11:34.402	Trades	2026.02.04 18:18:59   deal #58 sell 0.03 BTCUSD at 73758.25 done (based on order #61)
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:59   deal performed [#58 sell 0.03 BTCUSD at 73758.25]
+CS	0	12:11:34.402	Trade	2026.02.04 18:18:59   order performed sell 0.03 at 73758.25 [#61 sell stop 0.03 BTCUSD at 73758.25]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:20   market buy 0.03 BTCUSD, close #61 (73508.50 / 73509.50 / 73508.50)
+CS	0	12:11:34.402	Trades	2026.02.04 18:22:20   deal #59 buy 0.03 BTCUSD at 73509.50 done (based on order #63)
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:20   deal performed [#59 buy 0.03 BTCUSD at 73509.50]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:20   order performed buy 0.03 at 73509.50 [#63 buy 0.03 BTCUSD at 73509.50]
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:22:20   CTrade::OrderSend: market buy 0.03 position #61 BTCUSD [done at 73509.50]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:21   order canceled [#62 buy stop 0.01 BTCUSD at 73759.42]
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:22:21   CTrade::OrderSend: cancel #62 [done]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:40   sell stop 0.03 BTCUSD at 73357.46 (73357.54 / 73358.54 / 73357.54)
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:22:40   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73357.46 [done]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:41   buy stop 0.01 BTCUSD at 73358.63 (73357.54 / 73358.54 / 73357.54)
+CS	0	12:11:34.402	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:22:41   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73358.63 [done]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:59   order [#65 buy stop 0.01 BTCUSD at 73358.63] triggered
+CS	0	12:11:34.402	Trades	2026.02.04 18:22:59   deal #60 buy 0.01 BTCUSD at 73358.63 done (based on order #65)
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:59   deal performed [#60 buy 0.01 BTCUSD at 73358.63]
+CS	0	12:11:34.402	Trade	2026.02.04 18:22:59   order performed buy 0.01 at 73358.63 [#65 buy stop 0.01 BTCUSD at 73358.63]
+CS	0	12:11:34.403	Trade	2026.02.04 18:24:59   market sell 0.01 BTCUSD, close #65 (73830.00 / 73831.00 / 73830.00)
+CS	0	12:11:34.403	Trades	2026.02.04 18:24:59   deal #61 sell 0.01 BTCUSD at 73830.00 done (based on order #66)
+CS	0	12:11:34.403	Trade	2026.02.04 18:24:59   deal performed [#61 sell 0.01 BTCUSD at 73830.00]
+CS	0	12:11:34.403	Trade	2026.02.04 18:24:59   order performed sell 0.01 at 73830.00 [#66 sell 0.01 BTCUSD at 73830.00]
+CS	0	12:11:34.403	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:24:59   CTrade::OrderSend: market sell 0.01 position #65 BTCUSD [done at 73830.00]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:00   order canceled [#64 sell stop 0.03 BTCUSD at 73357.46]
+CS	0	12:11:34.403	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:25:00   CTrade::OrderSend: cancel #64 [done]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:00   sell stop 0.03 BTCUSD at 73832.17 (73832.25 / 73833.25 / 73832.25)
+CS	0	12:11:34.403	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:25:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73832.17 [done]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:01   buy stop 0.01 BTCUSD at 73833.34 (73832.25 / 73833.25 / 73832.25)
+CS	0	12:11:34.403	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:25:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73833.34 [done]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:20   order [#68 buy stop 0.01 BTCUSD at 73833.34] triggered
+CS	0	12:11:34.403	Trades	2026.02.04 18:25:20   deal #62 buy 0.01 BTCUSD at 73833.34 done (based on order #68)
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:20   deal performed [#62 buy 0.01 BTCUSD at 73833.34]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:20   order performed buy 0.01 at 73833.34 [#68 buy stop 0.01 BTCUSD at 73833.34]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:40   order [#67 sell stop 0.03 BTCUSD at 73832.17] triggered
+CS	0	12:11:34.403	Trades	2026.02.04 18:25:40   deal #63 sell 0.03 BTCUSD at 73832.17 done (based on order #67)
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:40   deal performed [#63 sell 0.03 BTCUSD at 73832.17]
+CS	0	12:11:34.403	Trade	2026.02.04 18:25:40   order performed sell 0.03 at 73832.17 [#67 sell stop 0.03 BTCUSD at 73832.17]
+CS	0	12:11:34.404	Trade	2026.02.04 18:35:59   market sell 0.01 BTCUSD, close #68 (73510.06 / 73511.06 / 73510.06)
+CS	0	12:11:34.404	Trades	2026.02.04 18:35:59   deal #64 sell 0.01 BTCUSD at 73510.06 done (based on order #69)
+CS	0	12:11:34.404	Trade	2026.02.04 18:35:59   deal performed [#64 sell 0.01 BTCUSD at 73510.06]
+CS	0	12:11:34.404	Trade	2026.02.04 18:35:59   order performed sell 0.01 at 73510.06 [#69 sell 0.01 BTCUSD at 73510.06]
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:35:59   CTrade::OrderSend: market sell 0.01 position #68 BTCUSD [done at 73510.06]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:00   market buy 0.03 BTCUSD, close #67 (73510.06 / 73511.06 / 73510.06)
+CS	0	12:11:34.404	Trades	2026.02.04 18:36:00   deal #65 buy 0.03 BTCUSD at 73511.06 done (based on order #70)
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:00   deal performed [#65 buy 0.03 BTCUSD at 73511.06]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:00   order performed buy 0.03 at 73511.06 [#70 buy 0.03 BTCUSD at 73511.06]
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:36:00   CTrade::OrderSend: market buy 0.03 position #67 BTCUSD [done at 73511.06]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:00   sell stop 0.03 BTCUSD at 73511.68 (73511.76 / 73512.76 / 73511.76)
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:36:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73511.68 [done]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:01   buy stop 0.01 BTCUSD at 73512.85 (73511.76 / 73512.76 / 73511.76)
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:36:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73512.85 [done]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:20   order [#72 buy stop 0.01 BTCUSD at 73512.85] triggered
+CS	0	12:11:34.404	Trades	2026.02.04 18:36:20   deal #66 buy 0.01 BTCUSD at 73512.85 done (based on order #72)
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:20   deal performed [#66 buy 0.01 BTCUSD at 73512.85]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:20   order performed buy 0.01 at 73512.85 [#72 buy stop 0.01 BTCUSD at 73512.85]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:40   order [#71 sell stop 0.03 BTCUSD at 73511.68] triggered
+CS	0	12:11:34.404	Trades	2026.02.04 18:36:40   deal #67 sell 0.03 BTCUSD at 73511.68 done (based on order #71)
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:40   deal performed [#67 sell 0.03 BTCUSD at 73511.68]
+CS	0	12:11:34.404	Trade	2026.02.04 18:36:40   order performed sell 0.03 at 73511.68 [#71 sell stop 0.03 BTCUSD at 73511.68]
+CS	0	12:11:34.404	Trade	2026.02.04 18:42:59   market sell 0.01 BTCUSD, close #72 (73111.30 / 73112.30 / 73111.30)
+CS	0	12:11:34.404	Trades	2026.02.04 18:42:59   deal #68 sell 0.01 BTCUSD at 73111.30 done (based on order #73)
+CS	0	12:11:34.404	Trade	2026.02.04 18:42:59   deal performed [#68 sell 0.01 BTCUSD at 73111.30]
+CS	0	12:11:34.404	Trade	2026.02.04 18:42:59   order performed sell 0.01 at 73111.30 [#73 sell 0.01 BTCUSD at 73111.30]
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:42:59   CTrade::OrderSend: market sell 0.01 position #72 BTCUSD [done at 73111.30]
+CS	0	12:11:34.404	Trade	2026.02.04 18:43:00   market buy 0.03 BTCUSD, close #71 (73111.30 / 73112.30 / 73111.30)
+CS	0	12:11:34.404	Trades	2026.02.04 18:43:00   deal #69 buy 0.03 BTCUSD at 73112.30 done (based on order #74)
+CS	0	12:11:34.404	Trade	2026.02.04 18:43:00   deal performed [#69 buy 0.03 BTCUSD at 73112.30]
+CS	0	12:11:34.404	Trade	2026.02.04 18:43:00   order performed buy 0.03 at 73112.30 [#74 buy 0.03 BTCUSD at 73112.30]
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:43:00   CTrade::OrderSend: market buy 0.03 position #71 BTCUSD [done at 73112.30]
+CS	0	12:11:34.404	Trade	2026.02.04 18:43:00   sell stop 0.03 BTCUSD at 73111.24 (73111.32 / 73112.32 / 73111.32)
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:43:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73111.24 [done]
+CS	0	12:11:34.404	Trade	2026.02.04 18:43:01   buy stop 0.01 BTCUSD at 73112.41 (73111.32 / 73112.32 / 73111.32)
+CS	0	12:11:34.404	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 18:43:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73112.41 [done]
+CS	0	12:11:34.405	Trade	2026.02.04 18:43:20   order [#76 buy stop 0.01 BTCUSD at 73112.41] triggered
+CS	0	12:11:34.405	Trades	2026.02.04 18:43:20   deal #70 buy 0.01 BTCUSD at 73112.41 done (based on order #76)
+CS	0	12:11:34.405	Trade	2026.02.04 18:43:20   deal performed [#70 buy 0.01 BTCUSD at 73112.41]
+CS	0	12:11:34.405	Trade	2026.02.04 18:43:20   order performed buy 0.01 at 73112.41 [#76 buy stop 0.01 BTCUSD at 73112.41]
+CS	0	12:11:34.405	Trade	2026.02.04 18:43:40   order [#75 sell stop 0.03 BTCUSD at 73111.24] triggered
+CS	0	12:11:34.405	Trades	2026.02.04 18:43:40   deal #71 sell 0.03 BTCUSD at 73111.24 done (based on order #75)
+CS	0	12:11:34.405	Trade	2026.02.04 18:43:40   deal performed [#71 sell 0.03 BTCUSD at 73111.24]
+CS	0	12:11:34.405	Trade	2026.02.04 18:43:40   order performed sell 0.03 at 73111.24 [#75 sell stop 0.03 BTCUSD at 73111.24]
+CS	0	12:11:34.407	Trade	2026.02.04 19:24:59   market sell 0.01 BTCUSD, close #76 (72766.93 / 72767.93 / 72766.93)
+CS	0	12:11:34.407	Trades	2026.02.04 19:24:59   deal #72 sell 0.01 BTCUSD at 72766.93 done (based on order #77)
+CS	0	12:11:34.407	Trade	2026.02.04 19:24:59   deal performed [#72 sell 0.01 BTCUSD at 72766.93]
+CS	0	12:11:34.407	Trade	2026.02.04 19:24:59   order performed sell 0.01 at 72766.93 [#77 sell 0.01 BTCUSD at 72766.93]
+CS	0	12:11:34.407	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:24:59   CTrade::OrderSend: market sell 0.01 position #76 BTCUSD [done at 72766.93]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:00   market buy 0.03 BTCUSD, close #75 (72766.93 / 72767.93 / 72766.93)
+CS	0	12:11:34.407	Trades	2026.02.04 19:25:00   deal #73 buy 0.03 BTCUSD at 72767.93 done (based on order #78)
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:00   deal performed [#73 buy 0.03 BTCUSD at 72767.93]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:00   order performed buy 0.03 at 72767.93 [#78 buy 0.03 BTCUSD at 72767.93]
+CS	0	12:11:34.407	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:25:00   CTrade::OrderSend: market buy 0.03 position #75 BTCUSD [done at 72767.93]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:00   sell stop 0.03 BTCUSD at 72765.01 (72765.09 / 72766.09 / 72765.09)
+CS	0	12:11:34.407	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:25:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 72765.01 [done]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:01   buy stop 0.01 BTCUSD at 72766.18 (72765.09 / 72766.09 / 72765.09)
+CS	0	12:11:34.407	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:25:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 72766.18 [done]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:20   order [#79 sell stop 0.03 BTCUSD at 72765.01] triggered
+CS	0	12:11:34.407	Trades	2026.02.04 19:25:20   deal #74 sell 0.03 BTCUSD at 72765.01 done (based on order #79)
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:20   deal performed [#74 sell 0.03 BTCUSD at 72765.01]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:20   order performed sell 0.03 at 72765.01 [#79 sell stop 0.03 BTCUSD at 72765.01]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:40   order [#80 buy stop 0.01 BTCUSD at 72766.18] triggered
+CS	0	12:11:34.407	Trades	2026.02.04 19:25:40   deal #75 buy 0.01 BTCUSD at 72766.18 done (based on order #80)
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:40   deal performed [#75 buy 0.01 BTCUSD at 72766.18]
+CS	0	12:11:34.407	Trade	2026.02.04 19:25:40   order performed buy 0.01 at 72766.18 [#80 buy stop 0.01 BTCUSD at 72766.18]
+CS	0	12:11:34.408	Trade	2026.02.04 19:30:59   market sell 0.01 BTCUSD, close #80 (72439.27 / 72440.27 / 72439.27)
+CS	0	12:11:34.408	Trades	2026.02.04 19:30:59   deal #76 sell 0.01 BTCUSD at 72439.27 done (based on order #81)
+CS	0	12:11:34.408	Trade	2026.02.04 19:30:59   deal performed [#76 sell 0.01 BTCUSD at 72439.27]
+CS	0	12:11:34.408	Trade	2026.02.04 19:30:59   order performed sell 0.01 at 72439.27 [#81 sell 0.01 BTCUSD at 72439.27]
+CS	0	12:11:34.408	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:30:59   CTrade::OrderSend: market sell 0.01 position #80 BTCUSD [done at 72439.27]
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:00   market buy 0.03 BTCUSD, close #79 (72439.27 / 72440.27 / 72439.27)
+CS	0	12:11:34.408	Trades	2026.02.04 19:31:00   deal #77 buy 0.03 BTCUSD at 72440.27 done (based on order #82)
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:00   deal performed [#77 buy 0.03 BTCUSD at 72440.27]
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:00   order performed buy 0.03 at 72440.27 [#82 buy 0.03 BTCUSD at 72440.27]
+CS	0	12:11:34.408	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:31:00   CTrade::OrderSend: market buy 0.03 position #79 BTCUSD [done at 72440.27]
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:00   sell stop 0.03 BTCUSD at 72442.82 (72442.90 / 72443.90 / 72442.90)
+CS	0	12:11:34.408	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:31:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 72442.82 [done]
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:01   buy stop 0.01 BTCUSD at 72443.99 (72442.90 / 72443.90 / 72442.90)
+CS	0	12:11:34.408	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.04 19:31:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 72443.99 [done]
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:40   order [#84 buy stop 0.01 BTCUSD at 72443.99] triggered
+CS	0	12:11:34.408	Trades	2026.02.04 19:31:40   deal #78 buy 0.01 BTCUSD at 72443.99 done (based on order #84)
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:40   deal performed [#78 buy 0.01 BTCUSD at 72443.99]
+CS	0	12:11:34.408	Trade	2026.02.04 19:31:40   order performed buy 0.01 at 72443.99 [#84 buy stop 0.01 BTCUSD at 72443.99]
+CS	0	12:11:34.408	Trade	2026.02.04 19:37:20   order [#83 sell stop 0.03 BTCUSD at 72442.82] triggered
+CS	0	12:11:34.408	Trades	2026.02.04 19:37:20   deal #79 sell 0.03 BTCUSD at 72442.82 done (based on order #83)
+CS	0	12:11:34.408	Trade	2026.02.04 19:37:20   deal performed [#79 sell 0.03 BTCUSD at 72442.82]
+CS	0	12:11:34.408	Trade	2026.02.04 19:37:20   order performed sell 0.03 at 72442.82 [#83 sell stop 0.03 BTCUSD at 72442.82]
+CS	0	12:11:34.421	Trade	2026.02.05 00:05:59   market sell 0.01 BTCUSD, close #84 (72054.40 / 72055.40 / 72054.40)
+CS	0	12:11:34.421	Trades	2026.02.05 00:05:59   deal #80 sell 0.01 BTCUSD at 72054.40 done (based on order #85)
+CS	0	12:11:34.421	Trade	2026.02.05 00:05:59   deal performed [#80 sell 0.01 BTCUSD at 72054.40]
+CS	0	12:11:34.421	Trade	2026.02.05 00:05:59   order performed sell 0.01 at 72054.40 [#85 sell 0.01 BTCUSD at 72054.40]
+CS	0	12:11:34.421	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 00:05:59   CTrade::OrderSend: market sell 0.01 position #84 BTCUSD [done at 72054.40]
+CS	0	12:11:34.421	Trade	2026.02.05 00:06:00   market buy 0.03 BTCUSD, close #83 (72054.40 / 72055.40 / 72054.40)
+CS	0	12:11:34.421	Trades	2026.02.05 00:06:00   deal #81 buy 0.03 BTCUSD at 72055.40 done (based on order #86)
+CS	0	12:11:34.421	Trade	2026.02.05 00:06:00   deal performed [#81 buy 0.03 BTCUSD at 72055.40]
+CS	0	12:11:34.421	Trade	2026.02.05 00:06:00   order performed buy 0.03 at 72055.40 [#86 buy 0.03 BTCUSD at 72055.40]
+CS	0	12:11:34.421	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 00:06:00   CTrade::OrderSend: market buy 0.03 position #83 BTCUSD [done at 72055.40]
+CS	0	12:11:34.426	Trade	2026.02.05 02:00:00   sell stop 0.03 BTCUSD at 73136.61 (73136.69 / 73137.69 / 73136.69)
+CS	0	12:11:34.426	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 02:00:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 73136.61 [done]
+CS	0	12:11:34.426	Trade	2026.02.05 02:00:01   buy stop 0.01 BTCUSD at 73137.78 (73136.69 / 73137.69 / 73136.69)
+CS	0	12:11:34.426	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 02:00:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 73137.78 [done]
+CS	0	12:11:34.427	Trade	2026.02.05 02:00:20   order [#88 buy stop 0.01 BTCUSD at 73137.78] triggered
+CS	0	12:11:34.427	Trades	2026.02.05 02:00:20   deal #82 buy 0.01 BTCUSD at 73137.78 done (based on order #88)
+CS	0	12:11:34.427	Trade	2026.02.05 02:00:20   deal performed [#82 buy 0.01 BTCUSD at 73137.78]
+CS	0	12:11:34.427	Trade	2026.02.05 02:00:20   order performed buy 0.01 at 73137.78 [#88 buy stop 0.01 BTCUSD at 73137.78]
+CS	0	12:11:34.427	Trade	2026.02.05 02:00:40   order [#87 sell stop 0.03 BTCUSD at 73136.61] triggered
+CS	0	12:11:34.427	Trades	2026.02.05 02:00:40   deal #83 sell 0.03 BTCUSD at 73136.61 done (based on order #87)
+CS	0	12:11:34.427	Trade	2026.02.05 02:00:40   deal performed [#83 sell 0.03 BTCUSD at 73136.61]
+CS	0	12:11:34.427	Trade	2026.02.05 02:00:40   order performed sell 0.03 at 73136.61 [#87 sell stop 0.03 BTCUSD at 73136.61]
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:20   market sell 0.01 BTCUSD, close #88 (72807.28 / 72808.28 / 72807.28)
+CS	0	12:11:34.427	Trades	2026.02.05 02:14:20   deal #84 sell 0.01 BTCUSD at 72807.28 done (based on order #89)
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:20   deal performed [#84 sell 0.01 BTCUSD at 72807.28]
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:20   order performed sell 0.01 at 72807.28 [#89 sell 0.01 BTCUSD at 72807.28]
+CS	0	12:11:34.427	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 02:14:20   CTrade::OrderSend: market sell 0.01 position #88 BTCUSD [done at 72807.28]
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:21   market buy 0.03 BTCUSD, close #87 (72807.28 / 72808.28 / 72807.28)
+CS	0	12:11:34.427	Trades	2026.02.05 02:14:21   deal #85 buy 0.03 BTCUSD at 72808.28 done (based on order #90)
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:21   deal performed [#85 buy 0.03 BTCUSD at 72808.28]
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:21   order performed buy 0.03 at 72808.28 [#90 buy 0.03 BTCUSD at 72808.28]
+CS	0	12:11:34.427	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 02:14:21   CTrade::OrderSend: market buy 0.03 position #87 BTCUSD [done at 72808.28]
+CS	0	12:11:34.427	Trade	2026.02.05 02:14:40   sell stop 0.03 BTCUSD at 72736.61 (72736.69 / 72737.69 / 72736.69)
+CS	0	12:11:34.427	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 02:14:40   CTrade::OrderSend: sell stop 0.03 BTCUSD at 72736.61 [done]
+CS	0	12:11:34.428	Trade	2026.02.05 02:14:41   buy stop 0.01 BTCUSD at 72737.78 (72736.69 / 72737.69 / 72736.69)
+CS	0	12:11:34.428	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 02:14:41   CTrade::OrderSend: buy stop 0.01 BTCUSD at 72737.78 [done]
+CS	0	12:11:34.428	Trade	2026.02.05 02:14:59   order [#92 buy stop 0.01 BTCUSD at 72737.78] triggered
+CS	0	12:11:34.428	Trades	2026.02.05 02:14:59   deal #86 buy 0.01 BTCUSD at 72737.78 done (based on order #92)
+CS	0	12:11:34.428	Trade	2026.02.05 02:14:59   deal performed [#86 buy 0.01 BTCUSD at 72737.78]
+CS	0	12:11:34.428	Trade	2026.02.05 02:14:59   order performed buy 0.01 at 72737.78 [#92 buy stop 0.01 BTCUSD at 72737.78]
+CS	0	12:11:34.428	Trade	2026.02.05 02:15:40   order [#91 sell stop 0.03 BTCUSD at 72736.61] triggered
+CS	0	12:11:34.428	Trades	2026.02.05 02:15:40   deal #87 sell 0.03 BTCUSD at 72736.61 done (based on order #91)
+CS	0	12:11:34.428	Trade	2026.02.05 02:15:40   deal performed [#87 sell 0.03 BTCUSD at 72736.61]
+CS	0	12:11:34.428	Trade	2026.02.05 02:15:40   order performed sell 0.03 at 72736.61 [#91 sell stop 0.03 BTCUSD at 72736.61]
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:40   market sell 0.01 BTCUSD, close #92 (72129.23 / 72130.23 / 72129.23)
+CS	0	12:11:34.431	Trades	2026.02.05 03:22:40   deal #88 sell 0.01 BTCUSD at 72129.23 done (based on order #93)
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:40   deal performed [#88 sell 0.01 BTCUSD at 72129.23]
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:40   order performed sell 0.01 at 72129.23 [#93 sell 0.01 BTCUSD at 72129.23]
+CS	0	12:11:34.431	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 03:22:40   CTrade::OrderSend: market sell 0.01 position #92 BTCUSD [done at 72129.23]
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:41   market buy 0.03 BTCUSD, close #91 (72129.23 / 72130.23 / 72129.23)
+CS	0	12:11:34.431	Trades	2026.02.05 03:22:41   deal #89 buy 0.03 BTCUSD at 72130.23 done (based on order #94)
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:41   deal performed [#89 buy 0.03 BTCUSD at 72130.23]
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:41   order performed buy 0.03 at 72130.23 [#94 buy 0.03 BTCUSD at 72130.23]
+CS	0	12:11:34.431	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 03:22:41   CTrade::OrderSend: market buy 0.03 position #91 BTCUSD [done at 72130.23]
+CS	0	12:11:34.431	Trade	2026.02.05 03:22:59   sell stop 0.03 BTCUSD at 72068.93 (72069.01 / 72070.01 / 72069.01)
+CS	0	12:11:34.431	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 03:22:59   CTrade::OrderSend: sell stop 0.03 BTCUSD at 72068.93 [done]
+CS	0	12:11:34.431	Trade	2026.02.05 03:23:00   buy stop 0.01 BTCUSD at 72070.10 (72069.01 / 72070.01 / 72069.01)
+CS	0	12:11:34.431	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 03:23:00   CTrade::OrderSend: buy stop 0.01 BTCUSD at 72070.10 [done]
+CS	0	12:11:34.432	Trade	2026.02.05 03:23:20   order [#96 buy stop 0.01 BTCUSD at 72070.10] triggered
+CS	0	12:11:34.432	Trades	2026.02.05 03:23:20   deal #90 buy 0.01 BTCUSD at 72070.10 done (based on order #96)
+CS	0	12:11:34.432	Trade	2026.02.05 03:23:20   deal performed [#90 buy 0.01 BTCUSD at 72070.10]
+CS	0	12:11:34.432	Trade	2026.02.05 03:23:20   order performed buy 0.01 at 72070.10 [#96 buy stop 0.01 BTCUSD at 72070.10]
+CS	0	12:11:34.432	Trade	2026.02.05 03:23:40   order [#95 sell stop 0.03 BTCUSD at 72068.93] triggered
+CS	0	12:11:34.432	Trades	2026.02.05 03:23:40   deal #91 sell 0.03 BTCUSD at 72068.93 done (based on order #95)
+CS	0	12:11:34.432	Trade	2026.02.05 03:23:40   deal performed [#91 sell 0.03 BTCUSD at 72068.93]
+CS	0	12:11:34.432	Trade	2026.02.05 03:23:40   order performed sell 0.03 at 72068.93 [#95 sell stop 0.03 BTCUSD at 72068.93]
+CS	0	12:11:34.437	Trade	2026.02.05 04:55:59   market sell 0.01 BTCUSD, close #96 (71638.26 / 71639.26 / 71638.26)
+CS	0	12:11:34.437	Trades	2026.02.05 04:55:59   deal #92 sell 0.01 BTCUSD at 71638.26 done (based on order #97)
+CS	0	12:11:34.437	Trade	2026.02.05 04:55:59   deal performed [#92 sell 0.01 BTCUSD at 71638.26]
+CS	0	12:11:34.437	Trade	2026.02.05 04:55:59   order performed sell 0.01 at 71638.26 [#97 sell 0.01 BTCUSD at 71638.26]
+CS	0	12:11:34.437	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 04:55:59   CTrade::OrderSend: market sell 0.01 position #96 BTCUSD [done at 71638.26]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:00   market buy 0.03 BTCUSD, close #95 (71638.26 / 71639.26 / 71638.26)
+CS	0	12:11:34.437	Trades	2026.02.05 04:56:00   deal #93 buy 0.03 BTCUSD at 71639.26 done (based on order #98)
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:00   deal performed [#93 buy 0.03 BTCUSD at 71639.26]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:00   order performed buy 0.03 at 71639.26 [#98 buy 0.03 BTCUSD at 71639.26]
+CS	0	12:11:34.437	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 04:56:00   CTrade::OrderSend: market buy 0.03 position #95 BTCUSD [done at 71639.26]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:00   sell stop 0.03 BTCUSD at 71646.28 (71646.36 / 71647.36 / 71646.36)
+CS	0	12:11:34.437	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 04:56:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 71646.28 [done]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:01   buy stop 0.01 BTCUSD at 71647.45 (71646.36 / 71647.36 / 71646.36)
+CS	0	12:11:34.437	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 04:56:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 71647.45 [done]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:20   order [#99 sell stop 0.03 BTCUSD at 71646.28] triggered
+CS	0	12:11:34.437	Trades	2026.02.05 04:56:20   deal #94 sell 0.03 BTCUSD at 71646.28 done (based on order #99)
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:20   deal performed [#94 sell 0.03 BTCUSD at 71646.28]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:20   order performed sell 0.03 at 71646.28 [#99 sell stop 0.03 BTCUSD at 71646.28]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:40   order [#100 buy stop 0.01 BTCUSD at 71647.45] triggered
+CS	0	12:11:34.437	Trades	2026.02.05 04:56:40   deal #95 buy 0.01 BTCUSD at 71647.45 done (based on order #100)
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:40   deal performed [#95 buy 0.01 BTCUSD at 71647.45]
+CS	0	12:11:34.437	Trade	2026.02.05 04:56:40   order performed buy 0.01 at 71647.45 [#100 buy stop 0.01 BTCUSD at 71647.45]
+CS	0	12:11:34.439	Trade	2026.02.05 05:16:59   market sell 0.01 BTCUSD, close #100 (71265.31 / 71266.31 / 71265.31)
+CS	0	12:11:34.439	Trades	2026.02.05 05:16:59   deal #96 sell 0.01 BTCUSD at 71265.31 done (based on order #101)
+CS	0	12:11:34.439	Trade	2026.02.05 05:16:59   deal performed [#96 sell 0.01 BTCUSD at 71265.31]
+CS	0	12:11:34.439	Trade	2026.02.05 05:16:59   order performed sell 0.01 at 71265.31 [#101 sell 0.01 BTCUSD at 71265.31]
+CS	0	12:11:34.439	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 05:16:59   CTrade::OrderSend: market sell 0.01 position #100 BTCUSD [done at 71265.31]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:00   market buy 0.03 BTCUSD, close #99 (71265.31 / 71266.31 / 71265.31)
+CS	0	12:11:34.439	Trades	2026.02.05 05:17:00   deal #97 buy 0.03 BTCUSD at 71266.31 done (based on order #102)
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:00   deal performed [#97 buy 0.03 BTCUSD at 71266.31]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:00   order performed buy 0.03 at 71266.31 [#102 buy 0.03 BTCUSD at 71266.31]
+CS	0	12:11:34.439	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 05:17:00   CTrade::OrderSend: market buy 0.03 position #99 BTCUSD [done at 71266.31]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:00   sell stop 0.03 BTCUSD at 71265.61 (71265.69 / 71266.69 / 71265.69)
+CS	0	12:11:34.439	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 05:17:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 71265.61 [done]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:01   buy stop 0.01 BTCUSD at 71266.78 (71265.69 / 71266.69 / 71265.69)
+CS	0	12:11:34.439	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 05:17:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 71266.78 [done]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:20   order [#103 sell stop 0.03 BTCUSD at 71265.61] triggered
+CS	0	12:11:34.439	Trades	2026.02.05 05:17:20   deal #98 sell 0.03 BTCUSD at 71265.61 done (based on order #103)
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:20   deal performed [#98 sell 0.03 BTCUSD at 71265.61]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:20   order performed sell 0.03 at 71265.61 [#103 sell stop 0.03 BTCUSD at 71265.61]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:40   order [#104 buy stop 0.01 BTCUSD at 71266.78] triggered
+CS	0	12:11:34.439	Trades	2026.02.05 05:17:40   deal #99 buy 0.01 BTCUSD at 71266.78 done (based on order #104)
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:40   deal performed [#99 buy 0.01 BTCUSD at 71266.78]
+CS	0	12:11:34.439	Trade	2026.02.05 05:17:40   order performed buy 0.01 at 71266.78 [#104 buy stop 0.01 BTCUSD at 71266.78]
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:40   market sell 0.01 BTCUSD, close #104 (70948.58 / 70949.58 / 70948.58)
+CS	0	12:11:34.443	Trades	2026.02.05 06:13:40   deal #100 sell 0.01 BTCUSD at 70948.58 done (based on order #105)
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:40   deal performed [#100 sell 0.01 BTCUSD at 70948.58]
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:40   order performed sell 0.01 at 70948.58 [#105 sell 0.01 BTCUSD at 70948.58]
+CS	0	12:11:34.443	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 06:13:40   CTrade::OrderSend: market sell 0.01 position #104 BTCUSD [done at 70948.58]
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:41   market buy 0.03 BTCUSD, close #103 (70948.58 / 70949.58 / 70948.58)
+CS	0	12:11:34.443	Trades	2026.02.05 06:13:41   deal #101 buy 0.03 BTCUSD at 70949.58 done (based on order #106)
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:41   deal performed [#101 buy 0.03 BTCUSD at 70949.58]
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:41   order performed buy 0.03 at 70949.58 [#106 buy 0.03 BTCUSD at 70949.58]
+CS	0	12:11:34.443	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 06:13:41   CTrade::OrderSend: market buy 0.03 position #103 BTCUSD [done at 70949.58]
+CS	0	12:11:34.443	Trade	2026.02.05 06:13:59   sell stop 0.03 BTCUSD at 70951.34 (70951.42 / 70952.42 / 70951.42)
+CS	0	12:11:34.443	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 06:13:59   CTrade::OrderSend: sell stop 0.03 BTCUSD at 70951.34 [done]
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:00   buy stop 0.01 BTCUSD at 70952.51 (70951.41 / 70952.41 / 70951.41)
+CS	0	12:11:34.443	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 06:14:00   CTrade::OrderSend: buy stop 0.01 BTCUSD at 70952.51 [done]
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:20   order [#108 buy stop 0.01 BTCUSD at 70952.51] triggered
+CS	0	12:11:34.443	Trades	2026.02.05 06:14:20   deal #102 buy 0.01 BTCUSD at 70952.51 done (based on order #108)
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:20   deal performed [#102 buy 0.01 BTCUSD at 70952.51]
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:20   order performed buy 0.01 at 70952.51 [#108 buy stop 0.01 BTCUSD at 70952.51]
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:40   order [#107 sell stop 0.03 BTCUSD at 70951.34] triggered
+CS	0	12:11:34.443	Trades	2026.02.05 06:14:40   deal #103 sell 0.03 BTCUSD at 70951.34 done (based on order #107)
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:40   deal performed [#103 sell 0.03 BTCUSD at 70951.34]
+CS	0	12:11:34.443	Trade	2026.02.05 06:14:40   order performed sell 0.03 at 70951.34 [#107 sell stop 0.03 BTCUSD at 70951.34]
+CS	0	12:11:34.449	Trade	2026.02.05 07:19:59   market sell 0.01 BTCUSD, close #108 (70610.98 / 70611.98 / 70610.98)
+CS	0	12:11:34.449	Trades	2026.02.05 07:19:59   deal #104 sell 0.01 BTCUSD at 70610.98 done (based on order #109)
+CS	0	12:11:34.449	Trade	2026.02.05 07:19:59   deal performed [#104 sell 0.01 BTCUSD at 70610.98]
+CS	0	12:11:34.449	Trade	2026.02.05 07:19:59   order performed sell 0.01 at 70610.98 [#109 sell 0.01 BTCUSD at 70610.98]
+CS	0	12:11:34.449	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:19:59   CTrade::OrderSend: market sell 0.01 position #108 BTCUSD [done at 70610.98]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:00   market buy 0.03 BTCUSD, close #107 (70610.98 / 70611.98 / 70610.98)
+CS	0	12:11:34.449	Trades	2026.02.05 07:20:00   deal #105 buy 0.03 BTCUSD at 70611.98 done (based on order #110)
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:00   deal performed [#105 buy 0.03 BTCUSD at 70611.98]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:00   order performed buy 0.03 at 70611.98 [#110 buy 0.03 BTCUSD at 70611.98]
+CS	0	12:11:34.449	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:20:00   CTrade::OrderSend: market buy 0.03 position #107 BTCUSD [done at 70611.98]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:00   sell stop 0.03 BTCUSD at 70612.12 (70612.20 / 70613.20 / 70612.20)
+CS	0	12:11:34.449	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:20:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 70612.12 [done]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:01   buy stop 0.01 BTCUSD at 70613.29 (70612.20 / 70613.20 / 70612.20)
+CS	0	12:11:34.449	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:20:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 70613.29 [done]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:20   order [#111 sell stop 0.03 BTCUSD at 70612.12] triggered
+CS	0	12:11:34.449	Trades	2026.02.05 07:20:20   deal #106 sell 0.03 BTCUSD at 70612.12 done (based on order #111)
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:20   deal performed [#106 sell 0.03 BTCUSD at 70612.12]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:20   order performed sell 0.03 at 70612.12 [#111 sell stop 0.03 BTCUSD at 70612.12]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:40   order [#112 buy stop 0.01 BTCUSD at 70613.29] triggered
+CS	0	12:11:34.449	Trades	2026.02.05 07:20:40   deal #107 buy 0.01 BTCUSD at 70613.29 done (based on order #112)
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:40   deal performed [#107 buy 0.01 BTCUSD at 70613.29]
+CS	0	12:11:34.449	Trade	2026.02.05 07:20:40   order performed buy 0.01 at 70613.29 [#112 buy stop 0.01 BTCUSD at 70613.29]
+CS	0	12:11:34.449	Trade	2026.02.05 07:23:59   market sell 0.01 BTCUSD, close #112 (70149.86 / 70150.86 / 70149.86)
+CS	0	12:11:34.450	Trades	2026.02.05 07:23:59   deal #108 sell 0.01 BTCUSD at 70149.86 done (based on order #113)
+CS	0	12:11:34.450	Trade	2026.02.05 07:23:59   deal performed [#108 sell 0.01 BTCUSD at 70149.86]
+CS	0	12:11:34.450	Trade	2026.02.05 07:23:59   order performed sell 0.01 at 70149.86 [#113 sell 0.01 BTCUSD at 70149.86]
+CS	0	12:11:34.450	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:23:59   CTrade::OrderSend: market sell 0.01 position #112 BTCUSD [done at 70149.86]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:00   market buy 0.03 BTCUSD, close #111 (70149.86 / 70150.86 / 70149.86)
+CS	0	12:11:34.450	Trades	2026.02.05 07:24:00   deal #109 buy 0.03 BTCUSD at 70150.86 done (based on order #114)
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:00   deal performed [#109 buy 0.03 BTCUSD at 70150.86]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:00   order performed buy 0.03 at 70150.86 [#114 buy 0.03 BTCUSD at 70150.86]
+CS	0	12:11:34.450	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:24:00   CTrade::OrderSend: market buy 0.03 position #111 BTCUSD [done at 70150.86]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:00   sell stop 0.03 BTCUSD at 70149.76 (70149.84 / 70150.84 / 70149.84)
+CS	0	12:11:34.450	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:24:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 70149.76 [done]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:01   buy stop 0.01 BTCUSD at 70150.93 (70149.84 / 70150.84 / 70149.84)
+CS	0	12:11:34.450	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 07:24:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 70150.93 [done]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:20   order [#115 sell stop 0.03 BTCUSD at 70149.76] triggered
+CS	0	12:11:34.450	Trades	2026.02.05 07:24:20   deal #110 sell 0.03 BTCUSD at 70149.76 done (based on order #115)
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:20   deal performed [#110 sell 0.03 BTCUSD at 70149.76]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:20   order performed sell 0.03 at 70149.76 [#115 sell stop 0.03 BTCUSD at 70149.76]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:40   order [#116 buy stop 0.01 BTCUSD at 70150.93] triggered
+CS	0	12:11:34.450	Trades	2026.02.05 07:24:40   deal #111 buy 0.01 BTCUSD at 70150.93 done (based on order #116)
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:40   deal performed [#111 buy 0.01 BTCUSD at 70150.93]
+CS	0	12:11:34.450	Trade	2026.02.05 07:24:40   order performed buy 0.01 at 70150.93 [#116 buy stop 0.01 BTCUSD at 70150.93]
+CS	0	12:11:34.469	Trade	2026.02.05 14:16:59   market sell 0.01 BTCUSD, close #116 (69712.30 / 69713.30 / 69712.30)
+CS	0	12:11:34.469	Trades	2026.02.05 14:16:59   deal #112 sell 0.01 BTCUSD at 69712.30 done (based on order #117)
+CS	0	12:11:34.469	Trade	2026.02.05 14:16:59   deal performed [#112 sell 0.01 BTCUSD at 69712.30]
+CS	0	12:11:34.469	Trade	2026.02.05 14:16:59   order performed sell 0.01 at 69712.30 [#117 sell 0.01 BTCUSD at 69712.30]
+CS	0	12:11:34.469	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:16:59   CTrade::OrderSend: market sell 0.01 position #116 BTCUSD [done at 69712.30]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:00   market buy 0.03 BTCUSD, close #115 (69712.30 / 69713.30 / 69712.30)
+CS	0	12:11:34.469	Trades	2026.02.05 14:17:00   deal #113 buy 0.03 BTCUSD at 69713.30 done (based on order #118)
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:00   deal performed [#113 buy 0.03 BTCUSD at 69713.30]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:00   order performed buy 0.03 at 69713.30 [#118 buy 0.03 BTCUSD at 69713.30]
+CS	0	12:11:34.469	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:17:00   CTrade::OrderSend: market buy 0.03 position #115 BTCUSD [done at 69713.30]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:00   sell stop 0.03 BTCUSD at 69712.33 (69712.41 / 69713.41 / 69712.41)
+CS	0	12:11:34.469	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:17:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 69712.33 [done]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:01   buy stop 0.01 BTCUSD at 69713.50 (69712.41 / 69713.41 / 69712.41)
+CS	0	12:11:34.469	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:17:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 69713.50 [done]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:20   order [#120 buy stop 0.01 BTCUSD at 69713.50] triggered
+CS	0	12:11:34.469	Trades	2026.02.05 14:17:20   deal #114 buy 0.01 BTCUSD at 69713.50 done (based on order #120)
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:20   deal performed [#114 buy 0.01 BTCUSD at 69713.50]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:20   order performed buy 0.01 at 69713.50 [#120 buy stop 0.01 BTCUSD at 69713.50]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:40   order [#119 sell stop 0.03 BTCUSD at 69712.33] triggered
+CS	0	12:11:34.469	Trades	2026.02.05 14:17:40   deal #115 sell 0.03 BTCUSD at 69712.33 done (based on order #119)
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:40   deal performed [#115 sell 0.03 BTCUSD at 69712.33]
+CS	0	12:11:34.469	Trade	2026.02.05 14:17:40   order performed sell 0.03 at 69712.33 [#119 sell stop 0.03 BTCUSD at 69712.33]
+CS	0	12:11:34.469	Trade	2026.02.05 14:20:59   market sell 0.01 BTCUSD, close #120 (69332.24 / 69333.24 / 69332.24)
+CS	0	12:11:34.469	Trades	2026.02.05 14:20:59   deal #116 sell 0.01 BTCUSD at 69332.24 done (based on order #121)
+CS	0	12:11:34.469	Trade	2026.02.05 14:20:59   deal performed [#116 sell 0.01 BTCUSD at 69332.24]
+CS	0	12:11:34.469	Trade	2026.02.05 14:20:59   order performed sell 0.01 at 69332.24 [#121 sell 0.01 BTCUSD at 69332.24]
+CS	0	12:11:34.469	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:20:59   CTrade::OrderSend: market sell 0.01 position #120 BTCUSD [done at 69332.24]
+CS	0	12:11:34.469	Trade	2026.02.05 14:21:00   market buy 0.03 BTCUSD, close #119 (69332.24 / 69333.24 / 69332.24)
+CS	0	12:11:34.469	Trades	2026.02.05 14:21:00   deal #117 buy 0.03 BTCUSD at 69333.24 done (based on order #122)
+CS	0	12:11:34.469	Trade	2026.02.05 14:21:00   deal performed [#117 buy 0.03 BTCUSD at 69333.24]
+CS	0	12:11:34.469	Trade	2026.02.05 14:21:00   order performed buy 0.03 at 69333.24 [#122 buy 0.03 BTCUSD at 69333.24]
+CS	0	12:11:34.469	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:21:00   CTrade::OrderSend: market buy 0.03 position #119 BTCUSD [done at 69333.24]
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:00   sell stop 0.03 BTCUSD at 69332.24 (69332.32 / 69333.32 / 69332.32)
+CS	0	12:11:34.470	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:21:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 69332.24 [done]
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:01   buy stop 0.01 BTCUSD at 69333.41 (69332.32 / 69333.32 / 69332.32)
+CS	0	12:11:34.470	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 14:21:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 69333.41 [done]
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:20   order [#123 sell stop 0.03 BTCUSD at 69332.24] triggered
+CS	0	12:11:34.470	Trades	2026.02.05 14:21:20   deal #118 sell 0.03 BTCUSD at 69332.24 done (based on order #123)
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:20   deal performed [#118 sell 0.03 BTCUSD at 69332.24]
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:20   order performed sell 0.03 at 69332.24 [#123 sell stop 0.03 BTCUSD at 69332.24]
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:40   order [#124 buy stop 0.01 BTCUSD at 69333.41] triggered
+CS	0	12:11:34.470	Trades	2026.02.05 14:21:40   deal #119 buy 0.01 BTCUSD at 69333.41 done (based on order #124)
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:40   deal performed [#119 buy 0.01 BTCUSD at 69333.41]
+CS	0	12:11:34.470	Trade	2026.02.05 14:21:40   order performed buy 0.01 at 69333.41 [#124 buy stop 0.01 BTCUSD at 69333.41]
+CS	0	12:11:34.478	Trade	2026.02.05 17:03:59   market sell 0.01 BTCUSD, close #124 (68849.21 / 68850.21 / 68849.21)
+CS	0	12:11:34.478	Trades	2026.02.05 17:03:59   deal #120 sell 0.01 BTCUSD at 68849.21 done (based on order #125)
+CS	0	12:11:34.478	Trade	2026.02.05 17:03:59   deal performed [#120 sell 0.01 BTCUSD at 68849.21]
+CS	0	12:11:34.478	Trade	2026.02.05 17:03:59   order performed sell 0.01 at 68849.21 [#125 sell 0.01 BTCUSD at 68849.21]
+CS	0	12:11:34.478	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:03:59   CTrade::OrderSend: market sell 0.01 position #124 BTCUSD [done at 68849.21]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:00   market buy 0.03 BTCUSD, close #123 (68849.21 / 68850.21 / 68849.21)
+CS	0	12:11:34.478	Trades	2026.02.05 17:04:00   deal #121 buy 0.03 BTCUSD at 68850.21 done (based on order #126)
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:00   deal performed [#121 buy 0.03 BTCUSD at 68850.21]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:00   order performed buy 0.03 at 68850.21 [#126 buy 0.03 BTCUSD at 68850.21]
+CS	0	12:11:34.478	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:04:00   CTrade::OrderSend: market buy 0.03 position #123 BTCUSD [done at 68850.21]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:00   sell stop 0.03 BTCUSD at 68848.00 (68848.08 / 68849.08 / 68848.08)
+CS	0	12:11:34.478	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:04:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 68848.00 [done]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:01   buy stop 0.01 BTCUSD at 68849.17 (68848.08 / 68849.08 / 68848.08)
+CS	0	12:11:34.478	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:04:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 68849.17 [done]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:20   order [#127 sell stop 0.03 BTCUSD at 68848.00] triggered
+CS	0	12:11:34.478	Trades	2026.02.05 17:04:20   deal #122 sell 0.03 BTCUSD at 68848.00 done (based on order #127)
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:20   deal performed [#122 sell 0.03 BTCUSD at 68848.00]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:20   order performed sell 0.03 at 68848.00 [#127 sell stop 0.03 BTCUSD at 68848.00]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:40   order [#128 buy stop 0.01 BTCUSD at 68849.17] triggered
+CS	0	12:11:34.478	Trades	2026.02.05 17:04:40   deal #123 buy 0.01 BTCUSD at 68849.17 done (based on order #128)
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:40   deal performed [#123 buy 0.01 BTCUSD at 68849.17]
+CS	0	12:11:34.478	Trade	2026.02.05 17:04:40   order performed buy 0.01 at 68849.17 [#128 buy stop 0.01 BTCUSD at 68849.17]
+CS	0	12:11:34.478	Trade	2026.02.05 17:10:59   market sell 0.01 BTCUSD, close #128 (68354.37 / 68355.37 / 68354.37)
+CS	0	12:11:34.478	Trades	2026.02.05 17:10:59   deal #124 sell 0.01 BTCUSD at 68354.37 done (based on order #129)
+CS	0	12:11:34.478	Trade	2026.02.05 17:10:59   deal performed [#124 sell 0.01 BTCUSD at 68354.37]
+CS	0	12:11:34.478	Trade	2026.02.05 17:10:59   order performed sell 0.01 at 68354.37 [#129 sell 0.01 BTCUSD at 68354.37]
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:10:59   CTrade::OrderSend: market sell 0.01 position #128 BTCUSD [done at 68354.37]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:00   market buy 0.03 BTCUSD, close #127 (68354.37 / 68355.37 / 68354.37)
+CS	0	12:11:34.479	Trades	2026.02.05 17:11:00   deal #125 buy 0.03 BTCUSD at 68355.37 done (based on order #130)
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:00   deal performed [#125 buy 0.03 BTCUSD at 68355.37]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:00   order performed buy 0.03 at 68355.37 [#130 buy 0.03 BTCUSD at 68355.37]
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:11:00   CTrade::OrderSend: market buy 0.03 position #127 BTCUSD [done at 68355.37]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:00   sell stop 0.03 BTCUSD at 68354.06 (68354.14 / 68355.14 / 68354.14)
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:11:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 68354.06 [done]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:01   buy stop 0.01 BTCUSD at 68355.23 (68354.14 / 68355.14 / 68354.14)
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:11:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 68355.23 [done]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:20   order [#132 buy stop 0.01 BTCUSD at 68355.23] triggered
+CS	0	12:11:34.479	Trades	2026.02.05 17:11:20   deal #126 buy 0.01 BTCUSD at 68355.23 done (based on order #132)
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:20   deal performed [#126 buy 0.01 BTCUSD at 68355.23]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:20   order performed buy 0.01 at 68355.23 [#132 buy stop 0.01 BTCUSD at 68355.23]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:40   order [#131 sell stop 0.03 BTCUSD at 68354.06] triggered
+CS	0	12:11:34.479	Trades	2026.02.05 17:11:40   deal #127 sell 0.03 BTCUSD at 68354.06 done (based on order #131)
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:40   deal performed [#127 sell 0.03 BTCUSD at 68354.06]
+CS	0	12:11:34.479	Trade	2026.02.05 17:11:40   order performed sell 0.03 at 68354.06 [#131 sell stop 0.03 BTCUSD at 68354.06]
+CS	0	12:11:34.479	Trade	2026.02.05 17:14:59   market sell 0.01 BTCUSD, close #132 (67968.64 / 67969.64 / 67968.64)
+CS	0	12:11:34.479	Trades	2026.02.05 17:14:59   deal #128 sell 0.01 BTCUSD at 67968.64 done (based on order #133)
+CS	0	12:11:34.479	Trade	2026.02.05 17:14:59   deal performed [#128 sell 0.01 BTCUSD at 67968.64]
+CS	0	12:11:34.479	Trade	2026.02.05 17:14:59   order performed sell 0.01 at 67968.64 [#133 sell 0.01 BTCUSD at 67968.64]
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:14:59   CTrade::OrderSend: market sell 0.01 position #132 BTCUSD [done at 67968.64]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:00   market buy 0.03 BTCUSD, close #131 (67968.64 / 67969.64 / 67968.64)
+CS	0	12:11:34.479	Trades	2026.02.05 17:15:00   deal #129 buy 0.03 BTCUSD at 67969.64 done (based on order #134)
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:00   deal performed [#129 buy 0.03 BTCUSD at 67969.64]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:00   order performed buy 0.03 at 67969.64 [#134 buy 0.03 BTCUSD at 67969.64]
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:15:00   CTrade::OrderSend: market buy 0.03 position #131 BTCUSD [done at 67969.64]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:00   sell stop 0.03 BTCUSD at 67965.18 (67965.26 / 67966.26 / 67965.26)
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:15:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 67965.18 [done]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:01   buy stop 0.01 BTCUSD at 67966.35 (67965.26 / 67966.26 / 67965.26)
+CS	0	12:11:34.479	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:15:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 67966.35 [done]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:20   order [#135 sell stop 0.03 BTCUSD at 67965.18] triggered
+CS	0	12:11:34.479	Trades	2026.02.05 17:15:20   deal #130 sell 0.03 BTCUSD at 67965.18 done (based on order #135)
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:20   deal performed [#130 sell 0.03 BTCUSD at 67965.18]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:20   order performed sell 0.03 at 67965.18 [#135 sell stop 0.03 BTCUSD at 67965.18]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:40   order [#136 buy stop 0.01 BTCUSD at 67966.35] triggered
+CS	0	12:11:34.479	Trades	2026.02.05 17:15:40   deal #131 buy 0.01 BTCUSD at 67966.35 done (based on order #136)
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:40   deal performed [#131 buy 0.01 BTCUSD at 67966.35]
+CS	0	12:11:34.479	Trade	2026.02.05 17:15:40   order performed buy 0.01 at 67966.35 [#136 buy stop 0.01 BTCUSD at 67966.35]
+CS	0	12:11:34.480	Trade	2026.02.05 17:22:59   market sell 0.01 BTCUSD, close #136 (67413.66 / 67414.66 / 67413.66)
+CS	0	12:11:34.480	Trades	2026.02.05 17:22:59   deal #132 sell 0.01 BTCUSD at 67413.66 done (based on order #137)
+CS	0	12:11:34.480	Trade	2026.02.05 17:22:59   deal performed [#132 sell 0.01 BTCUSD at 67413.66]
+CS	0	12:11:34.480	Trade	2026.02.05 17:22:59   order performed sell 0.01 at 67413.66 [#137 sell 0.01 BTCUSD at 67413.66]
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:22:59   CTrade::OrderSend: market sell 0.01 position #136 BTCUSD [done at 67413.66]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:00   market buy 0.03 BTCUSD, close #135 (67413.66 / 67414.66 / 67413.66)
+CS	0	12:11:34.480	Trades	2026.02.05 17:23:00   deal #133 buy 0.03 BTCUSD at 67414.66 done (based on order #138)
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:00   deal performed [#133 buy 0.03 BTCUSD at 67414.66]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:00   order performed buy 0.03 at 67414.66 [#138 buy 0.03 BTCUSD at 67414.66]
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:23:00   CTrade::OrderSend: market buy 0.03 position #135 BTCUSD [done at 67414.66]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:00   sell stop 0.03 BTCUSD at 67412.94 (67413.02 / 67414.02 / 67413.02)
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:23:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 67412.94 [done]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:01   buy stop 0.01 BTCUSD at 67414.11 (67413.02 / 67414.02 / 67413.02)
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:23:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 67414.11 [done]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:20   order [#140 buy stop 0.01 BTCUSD at 67414.11] triggered
+CS	0	12:11:34.480	Trades	2026.02.05 17:23:20   deal #134 buy 0.01 BTCUSD at 67414.11 done (based on order #140)
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:20   deal performed [#134 buy 0.01 BTCUSD at 67414.11]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:20   order performed buy 0.01 at 67414.11 [#140 buy stop 0.01 BTCUSD at 67414.11]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:40   order [#139 sell stop 0.03 BTCUSD at 67412.94] triggered
+CS	0	12:11:34.480	Trades	2026.02.05 17:23:40   deal #135 sell 0.03 BTCUSD at 67412.94 done (based on order #139)
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:40   deal performed [#135 sell 0.03 BTCUSD at 67412.94]
+CS	0	12:11:34.480	Trade	2026.02.05 17:23:40   order performed sell 0.03 at 67412.94 [#139 sell stop 0.03 BTCUSD at 67412.94]
+CS	0	12:11:34.480	Trade	2026.02.05 17:29:59   market sell 0.01 BTCUSD, close #140 (66807.02 / 66808.02 / 66807.02)
+CS	0	12:11:34.480	Trades	2026.02.05 17:29:59   deal #136 sell 0.01 BTCUSD at 66807.02 done (based on order #141)
+CS	0	12:11:34.480	Trade	2026.02.05 17:29:59   deal performed [#136 sell 0.01 BTCUSD at 66807.02]
+CS	0	12:11:34.480	Trade	2026.02.05 17:29:59   order performed sell 0.01 at 66807.02 [#141 sell 0.01 BTCUSD at 66807.02]
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:29:59   CTrade::OrderSend: market sell 0.01 position #140 BTCUSD [done at 66807.02]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:00   market buy 0.03 BTCUSD, close #139 (66807.02 / 66808.02 / 66807.02)
+CS	0	12:11:34.480	Trades	2026.02.05 17:30:00   deal #137 buy 0.03 BTCUSD at 66808.02 done (based on order #142)
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:00   deal performed [#137 buy 0.03 BTCUSD at 66808.02]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:00   order performed buy 0.03 at 66808.02 [#142 buy 0.03 BTCUSD at 66808.02]
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:30:00   CTrade::OrderSend: market buy 0.03 position #139 BTCUSD [done at 66808.02]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:00   sell stop 0.03 BTCUSD at 66803.80 (66803.88 / 66804.88 / 66803.88)
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:30:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 66803.80 [done]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:01   buy stop 0.01 BTCUSD at 66804.97 (66803.88 / 66804.88 / 66803.88)
+CS	0	12:11:34.480	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 17:30:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 66804.97 [done]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:20   order [#143 sell stop 0.03 BTCUSD at 66803.80] triggered
+CS	0	12:11:34.480	Trades	2026.02.05 17:30:20   deal #138 sell 0.03 BTCUSD at 66803.80 done (based on order #143)
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:20   deal performed [#138 sell 0.03 BTCUSD at 66803.80]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:20   order performed sell 0.03 at 66803.80 [#143 sell stop 0.03 BTCUSD at 66803.80]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:40   order [#144 buy stop 0.01 BTCUSD at 66804.97] triggered
+CS	0	12:11:34.480	Trades	2026.02.05 17:30:40   deal #139 buy 0.01 BTCUSD at 66804.97 done (based on order #144)
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:40   deal performed [#139 buy 0.01 BTCUSD at 66804.97]
+CS	0	12:11:34.480	Trade	2026.02.05 17:30:40   order performed buy 0.01 at 66804.97 [#144 buy stop 0.01 BTCUSD at 66804.97]
+CS	0	12:11:34.488	Trade	2026.02.05 19:56:59   market sell 0.01 BTCUSD, close #144 (66317.21 / 66318.21 / 66317.21)
+CS	0	12:11:34.488	Trades	2026.02.05 19:56:59   deal #140 sell 0.01 BTCUSD at 66317.21 done (based on order #145)
+CS	0	12:11:34.488	Trade	2026.02.05 19:56:59   deal performed [#140 sell 0.01 BTCUSD at 66317.21]
+CS	0	12:11:34.488	Trade	2026.02.05 19:56:59   order performed sell 0.01 at 66317.21 [#145 sell 0.01 BTCUSD at 66317.21]
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:56:59   CTrade::OrderSend: market sell 0.01 position #144 BTCUSD [done at 66317.21]
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:00   market buy 0.03 BTCUSD, close #143 (66317.21 / 66318.21 / 66317.21)
+CS	0	12:11:34.488	Trades	2026.02.05 19:57:00   deal #141 buy 0.03 BTCUSD at 66318.21 done (based on order #146)
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:00   deal performed [#141 buy 0.03 BTCUSD at 66318.21]
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:00   order performed buy 0.03 at 66318.21 [#146 buy 0.03 BTCUSD at 66318.21]
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:57:00   CTrade::OrderSend: market buy 0.03 position #143 BTCUSD [done at 66318.21]
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:20   sell stop 0.03 BTCUSD at 66358.20 (66358.28 / 66359.28 / 66358.28)
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:57:20   CTrade::OrderSend: sell stop 0.03 BTCUSD at 66358.20 [done]
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:21   buy stop 0.01 BTCUSD at 66359.37 (66358.28 / 66359.28 / 66358.28)
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:57:21   CTrade::OrderSend: buy stop 0.01 BTCUSD at 66359.37 [done]
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:40   order [#147 sell stop 0.03 BTCUSD at 66358.20] triggered
+CS	0	12:11:34.488	Trades	2026.02.05 19:57:40   deal #142 sell 0.03 BTCUSD at 66358.20 done (based on order #147)
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:40   deal performed [#142 sell 0.03 BTCUSD at 66358.20]
+CS	0	12:11:34.488	Trade	2026.02.05 19:57:40   order performed sell 0.03 at 66358.20 [#147 sell stop 0.03 BTCUSD at 66358.20]
+CS	0	12:11:34.488	Trade	2026.02.05 19:58:59   market buy 0.03 BTCUSD, close #147 (66149.42 / 66150.42 / 66149.42)
+CS	0	12:11:34.488	Trades	2026.02.05 19:58:59   deal #143 buy 0.03 BTCUSD at 66150.42 done (based on order #149)
+CS	0	12:11:34.488	Trade	2026.02.05 19:58:59   deal performed [#143 buy 0.03 BTCUSD at 66150.42]
+CS	0	12:11:34.488	Trade	2026.02.05 19:58:59   order performed buy 0.03 at 66150.42 [#149 buy 0.03 BTCUSD at 66150.42]
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:58:59   CTrade::OrderSend: market buy 0.03 position #147 BTCUSD [done at 66150.42]
+CS	0	12:11:34.488	Trade	2026.02.05 19:59:00   order canceled [#148 buy stop 0.01 BTCUSD at 66359.37]
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:59:00   CTrade::OrderSend: cancel #148 [done]
+CS	0	12:11:34.488	Trade	2026.02.05 19:59:00   sell stop 0.03 BTCUSD at 66149.95 (66150.03 / 66151.03 / 66150.03)
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:59:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 66149.95 [done]
+CS	0	12:11:34.488	Trade	2026.02.05 19:59:01   buy stop 0.01 BTCUSD at 66151.12 (66150.03 / 66151.03 / 66150.03)
+CS	0	12:11:34.488	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 19:59:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 66151.12 [done]
+CS	0	12:11:34.488	Trade	2026.02.05 19:59:20   order [#150 sell stop 0.03 BTCUSD at 66149.95] triggered
+CS	0	12:11:34.488	Trades	2026.02.05 19:59:20   deal #144 sell 0.03 BTCUSD at 66149.95 done (based on order #150)
+CS	0	12:11:34.488	Trade	2026.02.05 19:59:20   deal performed [#144 sell 0.03 BTCUSD at 66149.95]
+CS	0	12:11:34.488	Trade	2026.02.05 19:59:20   order performed sell 0.03 at 66149.95 [#150 sell stop 0.03 BTCUSD at 66149.95]
+CS	0	12:11:34.489	Trade	2026.02.05 19:59:40   order [#151 buy stop 0.01 BTCUSD at 66151.12] triggered
+CS	0	12:11:34.489	Trades	2026.02.05 19:59:40   deal #145 buy 0.01 BTCUSD at 66151.12 done (based on order #151)
+CS	0	12:11:34.489	Trade	2026.02.05 19:59:40   deal performed [#145 buy 0.01 BTCUSD at 66151.12]
+CS	0	12:11:34.489	Trade	2026.02.05 19:59:40   order performed buy 0.01 at 66151.12 [#151 buy stop 0.01 BTCUSD at 66151.12]
+CS	0	12:11:34.490	Trade	2026.02.05 20:21:20   market sell 0.01 BTCUSD, close #151 (65687.89 / 65688.89 / 65687.89)
+CS	0	12:11:34.490	Trades	2026.02.05 20:21:20   deal #146 sell 0.01 BTCUSD at 65687.89 done (based on order #152)
+CS	0	12:11:34.490	Trade	2026.02.05 20:21:20   deal performed [#146 sell 0.01 BTCUSD at 65687.89]
+CS	0	12:11:34.490	Trade	2026.02.05 20:21:20   order performed sell 0.01 at 65687.89 [#152 sell 0.01 BTCUSD at 65687.89]
+CS	0	12:11:34.490	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 20:21:20   CTrade::OrderSend: market sell 0.01 position #151 BTCUSD [done at 65687.89]
+CS	0	12:11:34.490	Trade	2026.02.05 20:21:21   market buy 0.03 BTCUSD, close #150 (65687.89 / 65688.89 / 65687.89)
+CS	0	12:11:34.490	Trades	2026.02.05 20:21:21   deal #147 buy 0.03 BTCUSD at 65688.89 done (based on order #153)
+CS	0	12:11:34.490	Trade	2026.02.05 20:21:21   deal performed [#147 buy 0.03 BTCUSD at 65688.89]
+CS	0	12:11:34.490	Trade	2026.02.05 20:21:21   order performed buy 0.03 at 65688.89 [#153 buy 0.03 BTCUSD at 65688.89]
+CS	0	12:11:34.490	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.05 20:21:21   CTrade::OrderSend: market buy 0.03 position #150 BTCUSD [done at 65688.89]
+CS	0	12:11:34.505	Trade	2026.02.06 02:00:00   sell stop 0.03 BTCUSD at 62866.17 (62866.25 / 62867.25 / 62866.25)
+CS	0	12:11:34.505	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:00:00   CTrade::OrderSend: sell stop 0.03 BTCUSD at 62866.17 [done]
+CS	0	12:11:34.505	Trade	2026.02.06 02:00:01   buy stop 0.01 BTCUSD at 62867.34 (62866.25 / 62867.25 / 62866.25)
+CS	0	12:11:34.505	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:00:01   CTrade::OrderSend: buy stop 0.01 BTCUSD at 62867.34 [done]
+CS	0	12:11:34.505	Trade	2026.02.06 02:00:20   order [#154 sell stop 0.03 BTCUSD at 62866.17] triggered
+CS	0	12:11:34.505	Trades	2026.02.06 02:00:20   deal #148 sell 0.03 BTCUSD at 62866.17 done (based on order #154)
+CS	0	12:11:34.505	Trade	2026.02.06 02:00:20   deal performed [#148 sell 0.03 BTCUSD at 62866.17]
+CS	0	12:11:34.505	Trade	2026.02.06 02:00:20   order performed sell 0.03 at 62866.17 [#154 sell stop 0.03 BTCUSD at 62866.17]
+CS	0	12:11:34.506	Trade	2026.02.06 02:00:40   order [#155 buy stop 0.01 BTCUSD at 62867.34] triggered
+CS	0	12:11:34.506	Trades	2026.02.06 02:00:40   deal #149 buy 0.01 BTCUSD at 62867.34 done (based on order #155)
+CS	0	12:11:34.506	Trade	2026.02.06 02:00:40   deal performed [#149 buy 0.01 BTCUSD at 62867.34]
+CS	0	12:11:34.506	Trade	2026.02.06 02:00:40   order performed buy 0.01 at 62867.34 [#155 buy stop 0.01 BTCUSD at 62867.34]
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:40   market sell 0.01 BTCUSD, close #155 (62169.90 / 62170.90 / 62169.90)
+CS	0	12:11:34.506	Trades	2026.02.06 02:04:40   deal #150 sell 0.01 BTCUSD at 62169.90 done (based on order #156)
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:40   deal performed [#150 sell 0.01 BTCUSD at 62169.90]
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:40   order performed sell 0.01 at 62169.90 [#156 sell 0.01 BTCUSD at 62169.90]
+CS	0	12:11:34.506	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:04:40   CTrade::OrderSend: market sell 0.01 position #155 BTCUSD [done at 62169.90]
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:41   market buy 0.03 BTCUSD, close #154 (62169.90 / 62170.90 / 62169.90)
+CS	0	12:11:34.506	Trades	2026.02.06 02:04:41   deal #151 buy 0.03 BTCUSD at 62170.90 done (based on order #157)
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:41   deal performed [#151 buy 0.03 BTCUSD at 62170.90]
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:41   order performed buy 0.03 at 62170.90 [#157 buy 0.03 BTCUSD at 62170.90]
+CS	0	12:11:34.506	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:04:41   CTrade::OrderSend: market buy 0.03 position #154 BTCUSD [done at 62170.90]
+CS	0	12:11:34.506	Trade	2026.02.06 02:04:59   sell stop 0.03 BTCUSD at 62253.57 (62253.65 / 62254.65 / 62253.65)
+CS	0	12:11:34.506	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:04:59   CTrade::OrderSend: sell stop 0.03 BTCUSD at 62253.57 [done]
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:00   order [#158 sell stop 0.03 BTCUSD at 62253.57] triggered
+CS	0	12:11:34.506	Trades	2026.02.06 02:05:00   deal #152 sell 0.03 BTCUSD at 62253.57 done (based on order #158)
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:00   deal performed [#152 sell 0.03 BTCUSD at 62253.57]
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:00   order performed sell 0.03 at 62253.57 [#158 sell stop 0.03 BTCUSD at 62253.57]
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:00   buy stop 0.01 BTCUSD at 62254.74 (62250.34 / 62251.34 / 62250.34)
+CS	0	12:11:34.506	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:05:00   CTrade::OrderSend: buy stop 0.01 BTCUSD at 62254.74 [done]
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:20   order [#159 buy stop 0.01 BTCUSD at 62254.74] triggered
+CS	0	12:11:34.506	Trades	2026.02.06 02:05:20   deal #153 buy 0.01 BTCUSD at 62254.74 done (based on order #159)
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:20   deal performed [#153 buy 0.01 BTCUSD at 62254.74]
+CS	0	12:11:34.506	Trade	2026.02.06 02:05:20   order performed buy 0.01 at 62254.74 [#159 buy stop 0.01 BTCUSD at 62254.74]
+CS	0	12:11:34.506	Trade	2026.02.06 02:07:40   market sell 0.01 BTCUSD, close #159 (61755.51 / 61756.51 / 61755.51)
+CS	0	12:11:34.506	Trades	2026.02.06 02:07:40   deal #154 sell 0.01 BTCUSD at 61755.51 done (based on order #160)
+CS	0	12:11:34.506	Trade	2026.02.06 02:07:40   deal performed [#154 sell 0.01 BTCUSD at 61755.51]
+CS	0	12:11:34.506	Trade	2026.02.06 02:07:40   order performed sell 0.01 at 61755.51 [#160 sell 0.01 BTCUSD at 61755.51]
+CS	0	12:11:34.506	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:07:40   CTrade::OrderSend: market sell 0.01 position #159 BTCUSD [done at 61755.51]
+CS	0	12:11:34.506	Trade	2026.02.06 02:07:41   market buy 0.03 BTCUSD, close #158 (61755.51 / 61756.51 / 61755.51)
+CS	0	12:11:34.506	Trades	2026.02.06 02:07:41   deal #155 buy 0.03 BTCUSD at 61756.51 done (based on order #161)
+CS	0	12:11:34.506	Trade	2026.02.06 02:07:41   deal performed [#155 buy 0.03 BTCUSD at 61756.51]
+CS	0	12:11:34.506	Trade	2026.02.06 02:07:41   order performed buy 0.03 at 61756.51 [#161 buy 0.03 BTCUSD at 61756.51]
+CS	0	12:11:34.506	gr8F8th XxXxTrEx 20260402.00-001-001 (BTCUSD,M15)	2026.02.06 02:07:41   CTrade::OrderSend: market buy 0.03 position #158 BTCUSD [done at 61756.51]
